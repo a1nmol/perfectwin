@@ -1,0 +1,241 @@
+[
+  {
+    "id": "FRANCINE-2024",
+    "name": "Francine",
+    "year": 2024,
+    "category": 2,
+    "maxWindKt": 85,
+    "description": "Category 2 hurricane that made landfall in Terrebonne Parish, Louisiana on September 11, 2024",
+    "radiiKm": {
+      "ts34": 130,
+      "ts50": 75,
+      "hu64": 30
+    },
+    "track": [
+      {"lat": 27.5, "lon": -90.0, "time": "2024-09-10T12:00:00Z", "windKt": 65},
+      {"lat": 28.0, "lon": -90.3, "time": "2024-09-10T18:00:00Z", "windKt": 70},
+      {"lat": 28.5, "lon": -90.6, "time": "2024-09-11T00:00:00Z", "windKt": 75},
+      {"lat": 29.0, "lon": -90.9, "time": "2024-09-11T06:00:00Z", "windKt": 80},
+      {"lat": 29.4, "lon": -91.1, "time": "2024-09-11T12:00:00Z", "windKt": 85},
+      {"lat": 29.8, "lon": -91.3, "time": "2024-09-11T18:00:00Z", "windKt": 75},
+      {"lat": 30.2, "lon": -91.5, "time": "2024-09-12T00:00:00Z", "windKt": 60},
+      {"lat": 30.7, "lon": -91.7, "time": "2024-09-12T06:00:00Z", "windKt": 45}
+    ]
+  },
+  {
+    "id": "IDA-2021",
+    "name": "Ida",
+    "year": 2021,
+    "category": 4,
+    "maxWindKt": 130,
+    "description": "Category 4 hurricane that made landfall near Port Fourchon, Louisiana on August 29, 2021",
+    "radiiKm": {
+      "ts34": 150,
+      "ts50": 90,
+      "hu64": 40
+    },
+    "track": [
+      {"lat": 26.0, "lon": -88.5, "time": "2021-08-27T12:00:00Z", "windKt": 75},
+      {"lat": 26.5, "lon": -88.8, "time": "2021-08-27T18:00:00Z", "windKt": 85},
+      {"lat": 27.2, "lon": -89.2, "time": "2021-08-28T00:00:00Z", "windKt": 95},
+      {"lat": 27.8, "lon": -89.5, "time": "2021-08-28T06:00:00Z", "windKt": 105},
+      {"lat": 28.4, "lon": -89.8, "time": "2021-08-28T12:00:00Z", "windKt": 115},
+      {"lat": 28.9, "lon": -90.0, "time": "2021-08-28T18:00:00Z", "windKt": 125},
+      {"lat": 29.2, "lon": -90.1, "time": "2021-08-29T00:00:00Z", "windKt": 130},
+      {"lat": 29.5, "lon": -90.2, "time": "2021-08-29T06:00:00Z", "windKt": 130},
+      {"lat": 29.8, "lon": -90.3, "time": "2021-08-29T12:00:00Z", "windKt": 120},
+      {"lat": 30.2, "lon": -90.5, "time": "2021-08-29T18:00:00Z", "windKt": 95},
+      {"lat": 30.7, "lon": -90.8, "time": "2021-08-30T00:00:00Z", "windKt": 70},
+      {"lat": 31.3, "lon": -91.2, "time": "2021-08-30T06:00:00Z", "windKt": 50}
+    ]
+  },
+  {
+    "id": "ZETA-2020",
+    "name": "Zeta",
+    "year": 2020,
+    "category": 3,
+    "maxWindKt": 100,
+    "description": "Category 3 hurricane that made landfall near Cocodrie, Louisiana on October 28, 2020",
+    "radiiKm": {
+      "ts34": 140,
+      "ts50": 80,
+      "hu64": 35
+    },
+    "track": [
+      {"lat": 27.5, "lon": -88.5, "time": "2020-10-28T00:00:00Z", "windKt": 75},
+      {"lat": 28.0, "lon": -88.8, "time": "2020-10-28T06:00:00Z", "windKt": 85},
+      {"lat": 28.5, "lon": -89.2, "time": "2020-10-28T12:00:00Z", "windKt": 90},
+      {"lat": 29.0, "lon": -89.6, "time": "2020-10-28T18:00:00Z", "windKt": 100},
+      {"lat": 29.4, "lon": -89.9, "time": "2020-10-29T00:00:00Z", "windKt": 95},
+      {"lat": 29.9, "lon": -90.2, "time": "2020-10-29T06:00:00Z", "windKt": 85},
+      {"lat": 30.4, "lon": -90.5, "time": "2020-10-29T12:00:00Z", "windKt": 70},
+      {"lat": 31.0, "lon": -90.9, "time": "2020-10-29T18:00:00Z", "windKt": 50}
+    ]
+  },
+  {
+    "id": "DELTA-2020",
+    "name": "Delta",
+    "year": 2020,
+    "category": 2,
+    "maxWindKt": 90,
+    "description": "Category 2 hurricane that made landfall near Creole, Louisiana on October 9, 2020",
+    "radiiKm": {
+      "ts34": 135,
+      "ts50": 75,
+      "hu64": 30
+    },
+    "track": [
+      {"lat": 27.8, "lon": -91.5, "time": "2020-10-09T00:00:00Z", "windKt": 70},
+      {"lat": 28.3, "lon": -92.0, "time": "2020-10-09T06:00:00Z", "windKt": 75},
+      {"lat": 28.8, "lon": -92.4, "time": "2020-10-09T12:00:00Z", "windKt": 85},
+      {"lat": 29.3, "lon": -92.8, "time": "2020-10-09T18:00:00Z", "windKt": 90},
+      {"lat": 29.7, "lon": -93.0, "time": "2020-10-10T00:00:00Z", "windKt": 85},
+      {"lat": 30.2, "lon": -93.2, "time": "2020-10-10T06:00:00Z", "windKt": 70},
+      {"lat": 30.7, "lon": -93.4, "time": "2020-10-10T12:00:00Z", "windKt": 55},
+      {"lat": 31.3, "lon": -93.5, "time": "2020-10-10T18:00:00Z", "windKt": 40}
+    ]
+  },
+  {
+    "id": "LAURA-2020",
+    "name": "Laura",
+    "year": 2020,
+    "category": 4,
+    "maxWindKt": 135,
+    "description": "Category 4 hurricane that made landfall near Cameron, Louisiana on August 27, 2020",
+    "radiiKm": {
+      "ts34": 160,
+      "ts50": 95,
+      "hu64": 45
+    },
+    "track": [
+      {"lat": 25.5, "lon": -91.0, "time": "2020-08-25T12:00:00Z", "windKt": 70},
+      {"lat": 26.0, "lon": -91.5, "time": "2020-08-25T18:00:00Z", "windKt": 80},
+      {"lat": 26.6, "lon": -92.0, "time": "2020-08-26T00:00:00Z", "windKt": 90},
+      {"lat": 27.2, "lon": -92.5, "time": "2020-08-26T06:00:00Z", "windKt": 100},
+      {"lat": 27.8, "lon": -92.9, "time": "2020-08-26T12:00:00Z", "windKt": 110},
+      {"lat": 28.4, "lon": -93.2, "time": "2020-08-26T18:00:00Z", "windKt": 120},
+      {"lat": 29.0, "lon": -93.4, "time": "2020-08-27T00:00:00Z", "windKt": 130},
+      {"lat": 29.5, "lon": -93.5, "time": "2020-08-27T06:00:00Z", "windKt": 135},
+      {"lat": 29.9, "lon": -93.6, "time": "2020-08-27T12:00:00Z", "windKt": 130},
+      {"lat": 30.5, "lon": -93.7, "time": "2020-08-27T18:00:00Z", "windKt": 105},
+      {"lat": 31.2, "lon": -93.9, "time": "2020-08-28T00:00:00Z", "windKt": 75},
+      {"lat": 32.0, "lon": -94.2, "time": "2020-08-28T06:00:00Z", "windKt": 50}
+    ]
+  },
+  {
+    "id": "BARRY-2019",
+    "name": "Barry",
+    "year": 2019,
+    "category": 1,
+    "maxWindKt": 65,
+    "description": "Category 1 hurricane that made landfall near Intracoastal City, Louisiana on July 13, 2019",
+    "radiiKm": {
+      "ts34": 120,
+      "ts50": 60,
+      "hu64": 25
+    },
+    "track": [
+      {"lat": 27.8, "lon": -90.5, "time": "2019-07-12T18:00:00Z", "windKt": 50},
+      {"lat": 28.3, "lon": -90.9, "time": "2019-07-13T00:00:00Z", "windKt": 55},
+      {"lat": 28.8, "lon": -91.3, "time": "2019-07-13T06:00:00Z", "windKt": 60},
+      {"lat": 29.3, "lon": -91.7, "time": "2019-07-13T12:00:00Z", "windKt": 65},
+      {"lat": 29.7, "lon": -92.0, "time": "2019-07-13T18:00:00Z", "windKt": 60},
+      {"lat": 30.2, "lon": -92.3, "time": "2019-07-14T00:00:00Z", "windKt": 50},
+      {"lat": 30.7, "lon": -92.5, "time": "2019-07-14T06:00:00Z", "windKt": 40},
+      {"lat": 31.2, "lon": -92.7, "time": "2019-07-14T12:00:00Z", "windKt": 30}
+    ]
+  },
+  {
+    "id": "NATE-2017",
+    "name": "Nate",
+    "year": 2017,
+    "category": 1,
+    "maxWindKt": 75,
+    "description": "Category 1 hurricane that made landfall near the mouth of the Mississippi River on October 7, 2017",
+    "radiiKm": {
+      "ts34": 125,
+      "ts50": 65,
+      "hu64": 28
+    },
+    "track": [
+      {"lat": 27.5, "lon": -88.5, "time": "2017-10-07T12:00:00Z", "windKt": 60},
+      {"lat": 28.0, "lon": -88.8, "time": "2017-10-07T18:00:00Z", "windKt": 65},
+      {"lat": 28.5, "lon": -89.1, "time": "2017-10-08T00:00:00Z", "windKt": 70},
+      {"lat": 29.0, "lon": -89.4, "time": "2017-10-08T06:00:00Z", "windKt": 75},
+      {"lat": 29.5, "lon": -89.7, "time": "2017-10-08T12:00:00Z", "windKt": 70},
+      {"lat": 30.0, "lon": -90.0, "time": "2017-10-08T18:00:00Z", "windKt": 60},
+      {"lat": 30.6, "lon": -90.3, "time": "2017-10-09T00:00:00Z", "windKt": 45},
+      {"lat": 31.2, "lon": -90.6, "time": "2017-10-09T06:00:00Z", "windKt": 35}
+    ]
+  },
+  {
+    "id": "HARVEY-2017",
+    "name": "Harvey",
+    "year": 2017,
+    "category": 0,
+    "maxWindKt": 45,
+    "description": "Tropical storm remnants that impacted Louisiana after major Texas landfall in August 2017",
+    "radiiKm": {
+      "ts34": 100,
+      "ts50": 50,
+      "hu64": 0
+    },
+    "track": [
+      {"lat": 29.0, "lon": -94.0, "time": "2017-08-29T18:00:00Z", "windKt": 45},
+      {"lat": 29.3, "lon": -93.7, "time": "2017-08-30T00:00:00Z", "windKt": 40},
+      {"lat": 29.6, "lon": -93.4, "time": "2017-08-30T06:00:00Z", "windKt": 35},
+      {"lat": 29.9, "lon": -93.1, "time": "2017-08-30T12:00:00Z", "windKt": 30},
+      {"lat": 30.2, "lon": -92.8, "time": "2017-08-30T18:00:00Z", "windKt": 25},
+      {"lat": 30.5, "lon": -92.5, "time": "2017-08-31T00:00:00Z", "windKt": 20}
+    ]
+  },
+  {
+    "id": "ISAAC-2012",
+    "name": "Isaac",
+    "year": 2012,
+    "category": 1,
+    "maxWindKt": 70,
+    "description": "Category 1 hurricane that made landfall near the mouth of the Mississippi River on August 28, 2012",
+    "radiiKm": {
+      "ts34": 130,
+      "ts50": 70,
+      "hu64": 30
+    },
+    "track": [
+      {"lat": 27.5, "lon": -88.5, "time": "2012-08-28T06:00:00Z", "windKt": 55},
+      {"lat": 28.0, "lon": -88.9, "time": "2012-08-28T12:00:00Z", "windKt": 60},
+      {"lat": 28.5, "lon": -89.3, "time": "2012-08-28T18:00:00Z", "windKt": 65},
+      {"lat": 29.0, "lon": -89.7, "time": "2012-08-29T00:00:00Z", "windKt": 70},
+      {"lat": 29.5, "lon": -90.1, "time": "2012-08-29T06:00:00Z", "windKt": 65},
+      {"lat": 30.0, "lon": -90.5, "time": "2012-08-29T12:00:00Z", "windKt": 55},
+      {"lat": 30.5, "lon": -90.9, "time": "2012-08-29T18:00:00Z", "windKt": 45},
+      {"lat": 31.0, "lon": -91.3, "time": "2012-08-30T00:00:00Z", "windKt": 35}
+    ]
+  },
+  {
+    "id": "GUSTAV-2008",
+    "name": "Gustav",
+    "year": 2008,
+    "category": 3,
+    "maxWindKt": 105,
+    "description": "Category 3 hurricane that made landfall near Cocodrie, Louisiana on September 1, 2008",
+    "radiiKm": {
+      "ts34": 160,
+      "ts50": 95,
+      "hu64": 35
+    },
+    "track": [
+      {"lat": 26.5, "lon": -88.0, "time": "2008-08-30T12:00:00Z", "windKt": 75},
+      {"lat": 27.0, "lon": -88.5, "time": "2008-08-30T18:00:00Z", "windKt": 85},
+      {"lat": 27.6, "lon": -89.0, "time": "2008-08-31T00:00:00Z", "windKt": 95},
+      {"lat": 28.2, "lon": -89.5, "time": "2008-08-31T06:00:00Z", "windKt": 100},
+      {"lat": 28.8, "lon": -90.0, "time": "2008-08-31T12:00:00Z", "windKt": 105},
+      {"lat": 29.2, "lon": -90.4, "time": "2008-08-31T18:00:00Z", "windKt": 105},
+      {"lat": 29.5, "lon": -90.7, "time": "2008-09-01T00:00:00Z", "windKt": 100},
+      {"lat": 29.8, "lon": -91.0, "time": "2008-09-01T06:00:00Z", "windKt": 95},
+      {"lat": 30.2, "lon": -91.3, "time": "2008-09-01T12:00:00Z", "windKt": 80},
+      {"lat": 30.7, "lon": -91.7, "time": "2008-09-01T18:00:00Z", "windKt": 60},
+      {"lat": 31.3, "lon": -92.2, "time": "2008-09-02T00:00:00Z", "windKt": 45}
+    ]
+  }
+]

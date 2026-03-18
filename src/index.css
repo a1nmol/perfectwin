@@ -1,0 +1,191 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Hide scrollbar but keep scrollability */
+.no-scrollbar::-webkit-scrollbar { display: none; }
+.no-scrollbar { -ms-overflow-style: none; scrollbar-width: none; }
+
+/* Leaflet Map Performance Optimizations */
+.leaflet-container {
+  font-family: inherit;
+}
+
+/* Smooth popup transitions */
+.leaflet-popup {
+  transition: opacity 0.2s ease-in-out;
+}
+
+.leaflet-popup-content-wrapper {
+  border-radius: 8px;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+}
+
+/* Prevent marker flickering on hover */
+.leaflet-interactive {
+  transition: none;
+  will-change: transform;
+}
+
+/* Smooth marker interactions */
+.leaflet-marker-icon,
+.leaflet-marker-shadow {
+  transition: transform 0.1s ease-out;
+}
+
+/* Optimize rendering */
+.leaflet-zoom-anim .leaflet-zoom-animated {
+  will-change: transform;
+}
+
+@layer base {
+  body {
+    @apply bg-gray-900 text-gray-100;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+      'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+      sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+}
+
+@layer components {
+  /* Glassmorphism styles */
+  .glass-panel {
+    @apply bg-white/10 backdrop-blur-lg border border-white/20 shadow-2xl;
+  }
+  
+  .glass-panel-dark {
+    @apply bg-gray-900/80 backdrop-blur-lg border border-gray-700/50 shadow-2xl;
+  }
+
+  .glass-button {
+    @apply bg-white/10 hover:bg-white/20 backdrop-blur-sm border border-white/30 
+           transition-all duration-300 shadow-lg hover:shadow-xl;
+  }
+
+  /* Command Center Theme */
+  .command-panel {
+    @apply glass-panel-dark rounded-xl p-6;
+  }
+
+  .metric-card {
+    @apply glass-panel rounded-lg p-4 hover:bg-white/15 transition-all duration-300;
+  }
+
+  /* Custom scrollbar */
+  .custom-scrollbar::-webkit-scrollbar {
+    width: 8px;
+    height: 8px;
+  }
+
+  .custom-scrollbar::-webkit-scrollbar-track {
+    @apply bg-gray-800/50 rounded-full;
+  }
+
+  .custom-scrollbar::-webkit-scrollbar-thumb {
+    @apply bg-primary/50 rounded-full hover:bg-primary/70;
+  }
+
+  /* Animations */
+  .fade-in {
+    animation: fadeIn 0.5s ease-in;
+  }
+
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+      transform: translateY(10px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+
+  .pulse-glow {
+    animation: pulseGlow 2s ease-in-out infinite;
+  }
+
+  @keyframes pulseGlow {
+    0%, 100% {
+      box-shadow: 0 0 20px rgba(16, 185, 129, 0.3);
+    }
+    50% {
+      box-shadow: 0 0 40px rgba(16, 185, 129, 0.6);
+    }
+  }
+}
+
+/* Leaflet Map Marker Glow Effect */
+.colony-marker-glow {
+  filter: drop-shadow(0 0 8px currentColor) drop-shadow(0 0 12px currentColor);
+  transition: all 0.3s ease;
+}
+
+.colony-marker-glow:hover {
+  filter: drop-shadow(0 0 12px currentColor) drop-shadow(0 0 20px currentColor);
+  transform: scale(1.1);
+}
+
+/* Leaflet Popup Styling */
+.leaflet-popup {
+  z-index: 2000 !important;
+}
+
+.leaflet-popup-content-wrapper {
+  @apply glass-panel-dark rounded-lg;
+  background: rgba(17, 24, 39, 0.95) !important;
+  color: white !important;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.5) !important;
+}
+
+.leaflet-popup-tip {
+  background: rgba(17, 24, 39, 0.95) !important;
+}
+
+.leaflet-popup-content {
+  margin: 12px !important;
+  min-width: 200px !important;
+}
+
+.leaflet-popup-close-button {
+  color: white !important;
+  font-size: 20px !important;
+}
+
+.leaflet-popup-close-button:hover {
+  color: #10b981 !important;
+}
+
+/* ArcGIS Map Overrides */
+.esri-view {
+  @apply rounded-xl overflow-hidden;
+}
+
+.esri-popup__main-container {
+  @apply glass-panel-dark;
+}
+
+.esri-popup__header {
+  @apply bg-primary/20;
+}
+
+.esri-popup__content {
+  @apply text-gray-100;
+}
+
+/* Loading spinner */
+.spinner {
+  border: 3px solid rgba(16, 185, 129, 0.1);
+  border-radius: 50%;
+  border-top: 3px solid #10b981;
+  width: 40px;
+  height: 40px;
+  animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}

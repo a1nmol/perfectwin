@@ -1,0 +1,6641 @@
+[
+  {
+    "name": "Biloxi North 32",
+    "lat": 29.7637,
+    "lng": -89.2869,
+    "sample_image": "avian_monitoring/high_resolution_photos/2010/Biloxi North/Biloxi North 32/07May10Camera1-Card1-0827.jpg",
+    "top_species": [
+      "SATE",
+      "LAGU",
+      "ROYT"
+    ],
+    "history": [
+      {
+        "year": 2010,
+        "birds": 175,
+        "nests": 0,
+        "species_count": 6
+      }
+    ]
+  },
+  {
+    "name": "Rabbit Island",
+    "lat": 29.8494,
+    "lng": -93.383,
+    "sample_image": "avian_monitoring/high_resolution_photos/2010/Sabine-Calcasieu/Rabbit Island/17May10Camera1-Card1-1125.jpg",
+    "top_species": [
+      "LAGU",
+      "TRHE",
+      "BRPE"
+    ],
+    "history": [
+      {
+        "year": 2010,
+        "birds": 9400,
+        "nests": 8575,
+        "species_count": 15
+      },
+      {
+        "year": 2018,
+        "birds": 20675,
+        "nests": 15838,
+        "species_count": 13
+      },
+      {
+        "year": 2021,
+        "birds": 16035,
+        "nests": 11635,
+        "species_count": 17
+      }
+    ]
+  },
+  {
+    "name": "Anderson Point Island",
+    "lat": 29.892,
+    "lng": -89.32729999999998,
+    "sample_image": "avian_monitoring/high_resolution_photos/2010/Biloxi North/Anderson Point Island/07May10Camera1-Card1-0727.jpg",
+    "top_species": [
+      "FOTE",
+      "LAGU",
+      "UNGT"
+    ],
+    "history": [
+      {
+        "year": 2010,
+        "birds": 11,
+        "nests": 0,
+        "species_count": 2
+      },
+      {
+        "year": 2013,
+        "birds": 59,
+        "nests": 57,
+        "species_count": 1
+      },
+      {
+        "year": 2015,
+        "birds": 57,
+        "nests": 52,
+        "species_count": 2
+      },
+      {
+        "year": 2021,
+        "birds": 169,
+        "nests": 114,
+        "species_count": 3
+      }
+    ]
+  },
+  {
+    "name": "Breton Island",
+    "lat": 29.4955,
+    "lng": -89.1742,
+    "sample_image": "avian_monitoring/high_resolution_photos/2010/Breton-Chandeleur Islands/Breton Island/14June10Camera1-Card1-0534.jpg",
+    "top_species": [
+      "SATE",
+      "ROYT",
+      "LAGU"
+    ],
+    "history": [
+      {
+        "year": 2010,
+        "birds": 58012,
+        "nests": 40842,
+        "species_count": 11
+      },
+      {
+        "year": 2011,
+        "birds": 39187,
+        "nests": 29166,
+        "species_count": 15
+      },
+      {
+        "year": 2012,
+        "birds": 27897,
+        "nests": 24342,
+        "species_count": 8
+      },
+      {
+        "year": 2013,
+        "birds": 51556,
+        "nests": 45551,
+        "species_count": 9
+      },
+      {
+        "year": 2015,
+        "birds": 42069,
+        "nests": 37436,
+        "species_count": 8
+      },
+      {
+        "year": 2018,
+        "birds": 30379,
+        "nests": 27881,
+        "species_count": 6
+      },
+      {
+        "year": 2021,
+        "birds": 14934,
+        "nests": 9115,
+        "species_count": 9
+      }
+    ]
+  },
+  {
+    "name": "New Harbor Island 2",
+    "lat": 29.8565,
+    "lng": -88.875,
+    "sample_image": "avian_monitoring/high_resolution_photos/2011/Breton-Chandeleur Islands/New Harbor Island 2/19May11Camera1-Card7-0280.jpg",
+    "top_species": [
+      "BRPE",
+      "LAGU",
+      "MAFR"
+    ],
+    "history": [
+      {
+        "year": 2010,
+        "birds": 1532,
+        "nests": 663,
+        "species_count": 6
+      },
+      {
+        "year": 2011,
+        "birds": 1964,
+        "nests": 1298,
+        "species_count": 8
+      },
+      {
+        "year": 2012,
+        "birds": 1487,
+        "nests": 954,
+        "species_count": 7
+      },
+      {
+        "year": 2015,
+        "birds": 154,
+        "nests": 46,
+        "species_count": 2
+      },
+      {
+        "year": 2018,
+        "birds": 56,
+        "nests": 18,
+        "species_count": 2
+      },
+      {
+        "year": 2021,
+        "birds": 124,
+        "nests": 0,
+        "species_count": 1
+      }
+    ]
+  },
+  {
+    "name": "Biloxi South 2",
+    "lat": 29.7047,
+    "lng": -89.5647,
+    "sample_image": "avian_monitoring/high_resolution_photos/2010/Biloxi South/Biloxi South 2/08May10Camera1-Card1-0012.jpg",
+    "top_species": [
+      "FOTE",
+      "LAGU",
+      "TRHE"
+    ],
+    "history": [
+      {
+        "year": 2010,
+        "birds": 84,
+        "nests": 55,
+        "species_count": 3
+      },
+      {
+        "year": 2011,
+        "birds": 472,
+        "nests": 472,
+        "species_count": 2
+      },
+      {
+        "year": 2012,
+        "birds": 483,
+        "nests": 483,
+        "species_count": 2
+      },
+      {
+        "year": 2013,
+        "birds": 1401,
+        "nests": 794,
+        "species_count": 6
+      },
+      {
+        "year": 2015,
+        "birds": 1741,
+        "nests": 1416,
+        "species_count": 6
+      },
+      {
+        "year": 2018,
+        "birds": 1228,
+        "nests": 898,
+        "species_count": 6
+      }
+    ]
+  },
+  {
+    "name": "Biloxi North 22",
+    "lat": 29.9368,
+    "lng": -89.2873,
+    "sample_image": "avian_monitoring/high_resolution_photos/2010/Biloxi North/Biloxi North 22/07May10Camera1-Card1-0713.jpg",
+    "top_species": [
+      "FOTE",
+      "BRPE"
+    ],
+    "history": [
+      {
+        "year": 2010,
+        "birds": 25,
+        "nests": 18,
+        "species_count": 2
+      },
+      {
+        "year": 2012,
+        "birds": 45,
+        "nests": 38,
+        "species_count": 1
+      }
+    ]
+  },
+  {
+    "name": "Bastian Island",
+    "lat": 29.296,
+    "lng": -89.66549999999998,
+    "sample_image": "avian_monitoring/high_resolution_photos/2010/Barataria Bay/Bastian Island/14June10Camera1-Card1-0002.jpg",
+    "top_species": [
+      "BLSK",
+      "SATE",
+      "ROYT"
+    ],
+    "history": [
+      {
+        "year": 2010,
+        "birds": 925,
+        "nests": 535,
+        "species_count": 2
+      },
+      {
+        "year": 2011,
+        "birds": 193,
+        "nests": 21,
+        "species_count": 2
+      },
+      {
+        "year": 2012,
+        "birds": 1093,
+        "nests": 252,
+        "species_count": 5
+      },
+      {
+        "year": 2013,
+        "birds": 3645,
+        "nests": 2748,
+        "species_count": 5
+      },
+      {
+        "year": 2015,
+        "birds": 51,
+        "nests": 0,
+        "species_count": 3
+      },
+      {
+        "year": 2018,
+        "birds": 478,
+        "nests": 385,
+        "species_count": 5
+      }
+    ]
+  },
+  {
+    "name": "Biloxi North 30 B",
+    "lat": 29.8166,
+    "lng": -89.3095,
+    "sample_image": "avian_monitoring/high_resolution_photos/2010/Biloxi North/Biloxi North 30 B/07May10Camera1-Card1-0778.jpg",
+    "top_species": [
+      "FOTE",
+      "LAGU",
+      "BLSK"
+    ],
+    "history": [
+      {
+        "year": 2010,
+        "birds": 402,
+        "nests": 280,
+        "species_count": 6
+      },
+      {
+        "year": 2011,
+        "birds": 438,
+        "nests": 232,
+        "species_count": 7
+      },
+      {
+        "year": 2012,
+        "birds": 304,
+        "nests": 186,
+        "species_count": 3
+      }
+    ]
+  },
+  {
+    "name": "Biloxi South 10 A",
+    "lat": 29.53141,
+    "lng": -89.55392,
+    "sample_image": "avian_monitoring/high_resolution_photos/2011/Biloxi South/Biloxi South 10 A/18May11Camera2-Card4-0600.jpg",
+    "top_species": [
+      "LAGU",
+      "BRPE",
+      "TRHE"
+    ],
+    "history": [
+      {
+        "year": 2010,
+        "birds": 1604,
+        "nests": 446,
+        "species_count": 3
+      },
+      {
+        "year": 2011,
+        "birds": 3084,
+        "nests": 1615,
+        "species_count": 4
+      },
+      {
+        "year": 2012,
+        "birds": 3614,
+        "nests": 2467,
+        "species_count": 4
+      },
+      {
+        "year": 2013,
+        "birds": 1616,
+        "nests": 985,
+        "species_count": 4
+      }
+    ]
+  },
+  {
+    "name": "Biloxi South 3",
+    "lat": 29.7017,
+    "lng": -89.54869999999998,
+    "sample_image": "avian_monitoring/high_resolution_photos/2010/Biloxi South/Biloxi South 3/08May10Camera1-Card1-0018.jpg",
+    "top_species": [
+      "LAGU",
+      "TRHE",
+      "SNEG"
+    ],
+    "history": [
+      {
+        "year": 2010,
+        "birds": 2177,
+        "nests": 1770,
+        "species_count": 9
+      },
+      {
+        "year": 2011,
+        "birds": 7271,
+        "nests": 5000,
+        "species_count": 12
+      },
+      {
+        "year": 2012,
+        "birds": 4632,
+        "nests": 3736,
+        "species_count": 9
+      },
+      {
+        "year": 2013,
+        "birds": 4940,
+        "nests": 3844,
+        "species_count": 10
+      },
+      {
+        "year": 2015,
+        "birds": 2766,
+        "nests": 2189,
+        "species_count": 7
+      },
+      {
+        "year": 2018,
+        "birds": 3129,
+        "nests": 2512,
+        "species_count": 7
+      },
+      {
+        "year": 2021,
+        "birds": 10,
+        "nests": 0,
+        "species_count": 2
+      }
+    ]
+  },
+  {
+    "name": "Queen Bess Island",
+    "lat": 29.3043,
+    "lng": -89.95919999999998,
+    "sample_image": "avian_monitoring/high_resolution_photos/2010/Barataria Bay/Queen Bess Island/14June10Camera1-Card1-0138.jpg",
+    "top_species": [
+      "LAGU",
+      "BRPE",
+      "ROYT"
+    ],
+    "history": [
+      {
+        "year": 2010,
+        "birds": 16009,
+        "nests": 9488,
+        "species_count": 17
+      },
+      {
+        "year": 2011,
+        "birds": 32134,
+        "nests": 22484,
+        "species_count": 15
+      },
+      {
+        "year": 2012,
+        "birds": 7686,
+        "nests": 4318,
+        "species_count": 13
+      },
+      {
+        "year": 2013,
+        "birds": 15784,
+        "nests": 9955,
+        "species_count": 19
+      },
+      {
+        "year": 2015,
+        "birds": 9396,
+        "nests": 5939,
+        "species_count": 18
+      },
+      {
+        "year": 2018,
+        "birds": 14162,
+        "nests": 10750,
+        "species_count": 10
+      },
+      {
+        "year": 2021,
+        "birds": 20604,
+        "nests": 14939,
+        "species_count": 14
+      }
+    ]
+  },
+  {
+    "name": "Cat Bay Island",
+    "lat": 29.3474,
+    "lng": -89.86719999999998,
+    "sample_image": "avian_monitoring/high_resolution_photos/2010/Barataria Bay/Cat Bay Island/14June10Camera1-Card1-0091.jpg",
+    "top_species": [
+      "BRPE",
+      "GREG",
+      "ROSP"
+    ],
+    "history": [
+      {
+        "year": 2010,
+        "birds": 4786,
+        "nests": 3234,
+        "species_count": 12
+      },
+      {
+        "year": 2011,
+        "birds": 1963,
+        "nests": 1691,
+        "species_count": 11
+      },
+      {
+        "year": 2012,
+        "birds": 1100,
+        "nests": 746,
+        "species_count": 3
+      },
+      {
+        "year": 2013,
+        "birds": 275,
+        "nests": 8,
+        "species_count": 2
+      }
+    ]
+  },
+  {
+    "name": "Biloxi North 30 A",
+    "lat": 29.8191,
+    "lng": -89.3101,
+    "sample_image": "avian_monitoring/high_resolution_photos/2010/Biloxi North/Biloxi North 30 A/07May10Camera1-Card1-0802.jpg",
+    "top_species": [
+      "FOTE",
+      "LAGU",
+      "BLSK"
+    ],
+    "history": [
+      {
+        "year": 2010,
+        "birds": 63,
+        "nests": 19,
+        "species_count": 7
+      },
+      {
+        "year": 2011,
+        "birds": 80,
+        "nests": 53,
+        "species_count": 8
+      }
+    ]
+  },
+  {
+    "name": "Biloxi South 6",
+    "lat": 29.6569,
+    "lng": -89.5145,
+    "sample_image": "avian_monitoring/high_resolution_photos/2010/Biloxi South/Biloxi South 6/08May10Camera1-Card1-0135.jpg",
+    "top_species": [
+      "FOTE",
+      "LAGU",
+      "SNEG"
+    ],
+    "history": [
+      {
+        "year": 2010,
+        "birds": 13,
+        "nests": 13,
+        "species_count": 1
+      },
+      {
+        "year": 2013,
+        "birds": 104,
+        "nests": 16,
+        "species_count": 2
+      },
+      {
+        "year": 2015,
+        "birds": 128,
+        "nests": 67,
+        "species_count": 1
+      },
+      {
+        "year": 2018,
+        "birds": 914,
+        "nests": 620,
+        "species_count": 4
+      },
+      {
+        "year": 2021,
+        "birds": 1899,
+        "nests": 1354,
+        "species_count": 12
+      }
+    ]
+  },
+  {
+    "name": "Biloxi South 4 A",
+    "lat": 29.6618,
+    "lng": -89.4672,
+    "sample_image": "avian_monitoring/high_resolution_photos/2010/Biloxi South/Biloxi South 4 A/08May10Camera1-Card1-0241.jpg",
+    "top_species": [
+      "BLSK",
+      "FOTE",
+      "ROYT"
+    ],
+    "history": [
+      {
+        "year": 2010,
+        "birds": 44,
+        "nests": 34,
+        "species_count": 1
+      },
+      {
+        "year": 2011,
+        "birds": 593,
+        "nests": 310,
+        "species_count": 3
+      },
+      {
+        "year": 2012,
+        "birds": 550,
+        "nests": 179,
+        "species_count": 6
+      },
+      {
+        "year": 2015,
+        "birds": 38,
+        "nests": 0,
+        "species_count": 4
+      }
+    ]
+  },
+  {
+    "name": "Beauregard Island",
+    "lat": 29.27971,
+    "lng": -89.97225,
+    "sample_image": "avian_monitoring/high_resolution_photos/2010/Barataria Bay/Beauregard Island/08May10Camera1-Card2-0075.jpg",
+    "top_species": [
+      "LAGU",
+      "FOTE",
+      "TRHE"
+    ],
+    "history": [
+      {
+        "year": 2010,
+        "birds": 714,
+        "nests": 366,
+        "species_count": 4
+      },
+      {
+        "year": 2012,
+        "birds": 690,
+        "nests": 394,
+        "species_count": 4
+      },
+      {
+        "year": 2013,
+        "birds": 1252,
+        "nests": 655,
+        "species_count": 4
+      },
+      {
+        "year": 2015,
+        "birds": 13,
+        "nests": 0,
+        "species_count": 2
+      },
+      {
+        "year": 2018,
+        "birds": 43,
+        "nests": 15,
+        "species_count": 1
+      },
+      {
+        "year": 2021,
+        "birds": 1560,
+        "nests": 1447,
+        "species_count": 9
+      }
+    ]
+  },
+  {
+    "name": "Deadman Point",
+    "lat": 29.7411,
+    "lng": -89.3568,
+    "sample_image": "avian_monitoring/high_resolution_photos/2010/Biloxi North/Deadman Point/07May10Camera1-Card1-0858.jpg",
+    "top_species": [
+      "LAGU",
+      "BRPE",
+      "TRHE"
+    ],
+    "history": [
+      {
+        "year": 2010,
+        "birds": 1048,
+        "nests": 409,
+        "species_count": 6
+      },
+      {
+        "year": 2011,
+        "birds": 5039,
+        "nests": 2919,
+        "species_count": 10
+      },
+      {
+        "year": 2012,
+        "birds": 5106,
+        "nests": 3701,
+        "species_count": 11
+      },
+      {
+        "year": 2013,
+        "birds": 2902,
+        "nests": 1548,
+        "species_count": 10
+      },
+      {
+        "year": 2015,
+        "birds": 2971,
+        "nests": 1814,
+        "species_count": 9
+      },
+      {
+        "year": 2018,
+        "birds": 1721,
+        "nests": 740,
+        "species_count": 6
+      },
+      {
+        "year": 2021,
+        "birds": 2743,
+        "nests": 1172,
+        "species_count": 6
+      }
+    ]
+  },
+  {
+    "name": "Biloxi South 7",
+    "lat": 29.6055,
+    "lng": -89.5887,
+    "sample_image": "avian_monitoring/high_resolution_photos/2010/Biloxi South/Biloxi South 7/08May10Camera1-Card1-0339.jpg",
+    "top_species": [
+      "FOTE",
+      "BLSK",
+      "AMOY"
+    ],
+    "history": [
+      {
+        "year": 2010,
+        "birds": 157,
+        "nests": 139,
+        "species_count": 1
+      },
+      {
+        "year": 2011,
+        "birds": 2,
+        "nests": 0,
+        "species_count": 1
+      },
+      {
+        "year": 2012,
+        "birds": 147,
+        "nests": 60,
+        "species_count": 2
+      }
+    ]
+  },
+  {
+    "name": "Biloxi North 10 B",
+    "lat": 30.0516,
+    "lng": -89.31829999999998,
+    "sample_image": "avian_monitoring/high_resolution_photos/2010/Biloxi North/Biloxi North 10 B/08May10Camera1-Card1-0400.jpg",
+    "top_species": [
+      "LAGU",
+      "TRHE",
+      "ROSP"
+    ],
+    "history": [
+      {
+        "year": 2010,
+        "birds": 234,
+        "nests": 190,
+        "species_count": 10
+      },
+      {
+        "year": 2011,
+        "birds": 62,
+        "nests": 75,
+        "species_count": 4
+      },
+      {
+        "year": 2012,
+        "birds": 68,
+        "nests": 84,
+        "species_count": 4
+      },
+      {
+        "year": 2013,
+        "birds": 77,
+        "nests": 66,
+        "species_count": 5
+      }
+    ]
+  },
+  {
+    "name": "Biloxi South 10 C",
+    "lat": 29.53327,
+    "lng": -89.55606,
+    "sample_image": "avian_monitoring/high_resolution_photos/2010/Biloxi South/Biloxi South 10 C/08May10Camera1-Card1-0445.jpg",
+    "top_species": [
+      "LAGU",
+      "BRPE",
+      "WHIB"
+    ],
+    "history": [
+      {
+        "year": 2010,
+        "birds": 672,
+        "nests": 452,
+        "species_count": 8
+      },
+      {
+        "year": 2011,
+        "birds": 2250,
+        "nests": 1276,
+        "species_count": 6
+      },
+      {
+        "year": 2012,
+        "birds": 2525,
+        "nests": 1691,
+        "species_count": 5
+      },
+      {
+        "year": 2013,
+        "birds": 1282,
+        "nests": 682,
+        "species_count": 3
+      },
+      {
+        "year": 2018,
+        "birds": 131,
+        "nests": 84,
+        "species_count": 4
+      }
+    ]
+  },
+  {
+    "name": "Biloxi South 4 B",
+    "lat": 29.6629,
+    "lng": -89.4628,
+    "sample_image": "avian_monitoring/high_resolution_photos/2010/Biloxi South/Biloxi South 4 B/08May10Camera1-Card1-0252.jpg",
+    "top_species": [
+      "LAGU",
+      "FOTE",
+      "CATE"
+    ],
+    "history": [
+      {
+        "year": 2010,
+        "birds": 41,
+        "nests": 38,
+        "species_count": 2
+      },
+      {
+        "year": 2011,
+        "birds": 340,
+        "nests": 161,
+        "species_count": 2
+      },
+      {
+        "year": 2012,
+        "birds": 1379,
+        "nests": 888,
+        "species_count": 5
+      },
+      {
+        "year": 2013,
+        "birds": 622,
+        "nests": 368,
+        "species_count": 5
+      },
+      {
+        "year": 2015,
+        "birds": 408,
+        "nests": 269,
+        "species_count": 3
+      },
+      {
+        "year": 2018,
+        "birds": 322,
+        "nests": 182,
+        "species_count": 4
+      }
+    ]
+  },
+  {
+    "name": "Biloxi South 1",
+    "lat": 29.6873,
+    "lng": -89.4646,
+    "sample_image": "avian_monitoring/high_resolution_photos/2010/Biloxi South/Biloxi South 1/08May10Camera1-Card1-0265.jpg",
+    "top_species": [
+      "BLSK",
+      "FOTE",
+      "LAGU"
+    ],
+    "history": [
+      {
+        "year": 2010,
+        "birds": 525,
+        "nests": 73,
+        "species_count": 8
+      },
+      {
+        "year": 2011,
+        "birds": 706,
+        "nests": 408,
+        "species_count": 6
+      },
+      {
+        "year": 2013,
+        "birds": 520,
+        "nests": 190,
+        "species_count": 6
+      },
+      {
+        "year": 2015,
+        "birds": 573,
+        "nests": 165,
+        "species_count": 8
+      },
+      {
+        "year": 2018,
+        "birds": 760,
+        "nests": 379,
+        "species_count": 5
+      }
+    ]
+  },
+  {
+    "name": "Cat Bay North Island",
+    "lat": 29.3656,
+    "lng": -89.86459999999998,
+    "sample_image": "avian_monitoring/high_resolution_photos/2011/Barataria Bay/Cat Bay North Island/18May11Camera2-Card4-0032.jpg",
+    "top_species": [
+      "BRPE",
+      "LAGU",
+      "ROYT"
+    ],
+    "history": [
+      {
+        "year": 2010,
+        "birds": 1931,
+        "nests": 990,
+        "species_count": 8
+      },
+      {
+        "year": 2011,
+        "birds": 2893,
+        "nests": 1673,
+        "species_count": 12
+      },
+      {
+        "year": 2012,
+        "birds": 2856,
+        "nests": 1554,
+        "species_count": 9
+      },
+      {
+        "year": 2013,
+        "birds": 2804,
+        "nests": 1652,
+        "species_count": 9
+      },
+      {
+        "year": 2015,
+        "birds": 1443,
+        "nests": 694,
+        "species_count": 6
+      }
+    ]
+  },
+  {
+    "name": "Biloxi North 34",
+    "lat": 29.7439,
+    "lng": -89.45319999999998,
+    "sample_image": "avian_monitoring/high_resolution_photos/2010/Biloxi North/Biloxi North 34/07May10Camera1-Card1-0880.jpg",
+    "top_species": [
+      "FOTE",
+      "LAGU",
+      "BRPE"
+    ],
+    "history": [
+      {
+        "year": 2010,
+        "birds": 148,
+        "nests": 8,
+        "species_count": 6
+      }
+    ]
+  },
+  {
+    "name": "Cat Bay South Island",
+    "lat": 29.3341,
+    "lng": -89.8716,
+    "sample_image": "avian_monitoring/high_resolution_photos/2010/Barataria Bay/Cat Bay South Island/08May10Camera1-Card1-0575.jpg",
+    "top_species": [
+      "LAGU",
+      "ROYT",
+      "BRPE"
+    ],
+    "history": [
+      {
+        "year": 2010,
+        "birds": 1747,
+        "nests": 512,
+        "species_count": 4
+      },
+      {
+        "year": 2011,
+        "birds": 8033,
+        "nests": 4676,
+        "species_count": 13
+      },
+      {
+        "year": 2012,
+        "birds": 9217,
+        "nests": 6072,
+        "species_count": 11
+      },
+      {
+        "year": 2013,
+        "birds": 2761,
+        "nests": 2073,
+        "species_count": 6
+      },
+      {
+        "year": 2015,
+        "birds": 151,
+        "nests": 0,
+        "species_count": 5
+      }
+    ]
+  },
+  {
+    "name": "Biloxi North 25",
+    "lat": 29.9059,
+    "lng": -89.2954,
+    "sample_image": "avian_monitoring/high_resolution_photos/2010/Biloxi North/Biloxi North 25/07May10Camera1-Card1-0717.jpg",
+    "top_species": [
+      "LAGU",
+      "TRHE",
+      "BRPE"
+    ],
+    "history": [
+      {
+        "year": 2010,
+        "birds": 76,
+        "nests": 25,
+        "species_count": 5
+      },
+      {
+        "year": 2011,
+        "birds": 141,
+        "nests": 97,
+        "species_count": 2
+      },
+      {
+        "year": 2012,
+        "birds": 136,
+        "nests": 109,
+        "species_count": 3
+      },
+      {
+        "year": 2013,
+        "birds": 29,
+        "nests": 27,
+        "species_count": 4
+      },
+      {
+        "year": 2015,
+        "birds": 7,
+        "nests": 5,
+        "species_count": 2
+      }
+    ]
+  },
+  {
+    "name": "Biloxi North 26",
+    "lat": 29.8979,
+    "lng": -89.301,
+    "sample_image": "avian_monitoring/high_resolution_photos/2010/Biloxi North/Biloxi North 26/07May10Camera2-Card1-4890.jpg",
+    "top_species": [
+      "LAGU",
+      "TRHE",
+      "BRPE"
+    ],
+    "history": [
+      {
+        "year": 2010,
+        "birds": 18,
+        "nests": 11,
+        "species_count": 2
+      },
+      {
+        "year": 2011,
+        "birds": 632,
+        "nests": 401,
+        "species_count": 2
+      },
+      {
+        "year": 2012,
+        "birds": 884,
+        "nests": 585,
+        "species_count": 5
+      },
+      {
+        "year": 2013,
+        "birds": 64,
+        "nests": 59,
+        "species_count": 3
+      },
+      {
+        "year": 2015,
+        "birds": 114,
+        "nests": 93,
+        "species_count": 2
+      },
+      {
+        "year": 2018,
+        "birds": 116,
+        "nests": 75,
+        "species_count": 3
+      }
+    ]
+  },
+  {
+    "name": "Biloxi South 11",
+    "lat": 29.5247,
+    "lng": -89.57259999999998,
+    "sample_image": "avian_monitoring/high_resolution_photos/2010/Biloxi South/Biloxi South 11/08May10Camera1-Card1-0374.jpg",
+    "top_species": [
+      "BRPE",
+      "SNEG",
+      "ROSP"
+    ],
+    "history": [
+      {
+        "year": 2010,
+        "birds": 499,
+        "nests": 400,
+        "species_count": 7
+      },
+      {
+        "year": 2011,
+        "birds": 885,
+        "nests": 900,
+        "species_count": 10
+      },
+      {
+        "year": 2012,
+        "birds": 1574,
+        "nests": 1358,
+        "species_count": 11
+      },
+      {
+        "year": 2013,
+        "birds": 1087,
+        "nests": 944,
+        "species_count": 7
+      },
+      {
+        "year": 2015,
+        "birds": 14,
+        "nests": 22,
+        "species_count": 1
+      }
+    ]
+  },
+  {
+    "name": "White Log Lake Islands",
+    "lat": 29.8283,
+    "lng": -89.3191,
+    "sample_image": "avian_monitoring/high_resolution_photos/2010/Biloxi North/White Log Lake Islands/07May10Camera1-Card1-0767.jpg",
+    "top_species": [
+      "UNHG"
+    ],
+    "history": [
+      {
+        "year": 2010,
+        "birds": 3,
+        "nests": 0,
+        "species_count": 1
+      }
+    ]
+  },
+  {
+    "name": "Dry Bread Island",
+    "lat": 29.8426,
+    "lng": -89.30639999999998,
+    "sample_image": "avian_monitoring/high_resolution_photos/2010/Biloxi North/Dry Bread Island/07May10Camera1-Card1-0732.jpg",
+    "top_species": [
+      "LAGU",
+      "FOTE",
+      "TRHE"
+    ],
+    "history": [
+      {
+        "year": 2010,
+        "birds": 590,
+        "nests": 258,
+        "species_count": 7
+      },
+      {
+        "year": 2011,
+        "birds": 1884,
+        "nests": 1081,
+        "species_count": 9
+      },
+      {
+        "year": 2012,
+        "birds": 1051,
+        "nests": 677,
+        "species_count": 10
+      },
+      {
+        "year": 2013,
+        "birds": 1329,
+        "nests": 913,
+        "species_count": 9
+      },
+      {
+        "year": 2015,
+        "birds": 1659,
+        "nests": 1017,
+        "species_count": 8
+      },
+      {
+        "year": 2018,
+        "birds": 1828,
+        "nests": 1396,
+        "species_count": 2
+      },
+      {
+        "year": 2021,
+        "birds": 339,
+        "nests": 253,
+        "species_count": 2
+      }
+    ]
+  },
+  {
+    "name": "Biloxi South 9",
+    "lat": 29.5392,
+    "lng": -89.5353,
+    "sample_image": "avian_monitoring/high_resolution_photos/2010/Biloxi South/Biloxi South 9/08May10Camera1-Card1-0493.jpg",
+    "top_species": [
+      "LAGU",
+      "CATE",
+      "BLSK"
+    ],
+    "history": [
+      {
+        "year": 2010,
+        "birds": 201,
+        "nests": 72,
+        "species_count": 4
+      },
+      {
+        "year": 2011,
+        "birds": 1197,
+        "nests": 471,
+        "species_count": 9
+      },
+      {
+        "year": 2012,
+        "birds": 649,
+        "nests": 447,
+        "species_count": 8
+      },
+      {
+        "year": 2013,
+        "birds": 1006,
+        "nests": 418,
+        "species_count": 10
+      },
+      {
+        "year": 2015,
+        "birds": 1329,
+        "nests": 349,
+        "species_count": 7
+      },
+      {
+        "year": 2018,
+        "birds": 816,
+        "nests": 299,
+        "species_count": 6
+      }
+    ]
+  },
+  {
+    "name": "Long Bay Island",
+    "lat": 29.5021,
+    "lng": -89.5356,
+    "sample_image": "avian_monitoring/high_resolution_photos/2010/Biloxi South/Long Bay Island/08May10Camera1-Card1-0546.jpg",
+    "top_species": [
+      "LAGU",
+      "FOTE",
+      "BRPE"
+    ],
+    "history": [
+      {
+        "year": 2010,
+        "birds": 1732,
+        "nests": 1152,
+        "species_count": 8
+      },
+      {
+        "year": 2011,
+        "birds": 5658,
+        "nests": 2736,
+        "species_count": 13
+      },
+      {
+        "year": 2012,
+        "birds": 5604,
+        "nests": 2954,
+        "species_count": 11
+      },
+      {
+        "year": 2013,
+        "birds": 4796,
+        "nests": 2566,
+        "species_count": 9
+      },
+      {
+        "year": 2015,
+        "birds": 4231,
+        "nests": 2154,
+        "species_count": 14
+      },
+      {
+        "year": 2018,
+        "birds": 1608,
+        "nests": 570,
+        "species_count": 7
+      },
+      {
+        "year": 2021,
+        "birds": 1973,
+        "nests": 1157,
+        "species_count": 7
+      }
+    ]
+  },
+  {
+    "name": "Biloxi North 31",
+    "lat": 29.8043,
+    "lng": -89.28149999999998,
+    "sample_image": "avian_monitoring/high_resolution_photos/2010/Biloxi North/Biloxi North 31/07May10Camera1-Card1-0823.jpg",
+    "top_species": [
+      "LAGU",
+      "FOTE",
+      "BRPE"
+    ],
+    "history": [
+      {
+        "year": 2010,
+        "birds": 657,
+        "nests": 335,
+        "species_count": 9
+      },
+      {
+        "year": 2011,
+        "birds": 276,
+        "nests": 162,
+        "species_count": 3
+      },
+      {
+        "year": 2012,
+        "birds": 339,
+        "nests": 172,
+        "species_count": 3
+      },
+      {
+        "year": 2015,
+        "birds": 100,
+        "nests": 11,
+        "species_count": 6
+      }
+    ]
+  },
+  {
+    "name": "Pelican Island",
+    "lat": 29.1437,
+    "lng": -90.3475,
+    "sample_image": "avian_monitoring/high_resolution_photos/2010/Terrebonne Bay/Pelican Island/17May10Camera1-Card1-0275.jpg",
+    "top_species": [
+      "BRPE",
+      "LAGU",
+      "UNTE"
+    ],
+    "history": [
+      {
+        "year": 2010,
+        "birds": 1672,
+        "nests": 718,
+        "species_count": 4
+      },
+      {
+        "year": 2011,
+        "birds": 1876,
+        "nests": 847,
+        "species_count": 5
+      },
+      {
+        "year": 2012,
+        "birds": 1113,
+        "nests": 311,
+        "species_count": 3
+      },
+      {
+        "year": 2013,
+        "birds": 301,
+        "nests": 142,
+        "species_count": 5
+      },
+      {
+        "year": 2015,
+        "birds": 2,
+        "nests": 1,
+        "species_count": 1
+      }
+    ]
+  },
+  {
+    "name": "Felicity Island",
+    "lat": 29.2558,
+    "lng": -90.44,
+    "sample_image": "avian_monitoring/high_resolution_photos/2010/Terrebonne Bay/Felicity Island/17May10Camera1-Card1-0187.jpg",
+    "top_species": [
+      "LAGU",
+      "ROYT",
+      "BRPE"
+    ],
+    "history": [
+      {
+        "year": 2010,
+        "birds": 12403,
+        "nests": 7988,
+        "species_count": 16
+      },
+      {
+        "year": 2011,
+        "birds": 29883,
+        "nests": 17064,
+        "species_count": 22
+      },
+      {
+        "year": 2012,
+        "birds": 30776,
+        "nests": 21933,
+        "species_count": 22
+      },
+      {
+        "year": 2013,
+        "birds": 33375,
+        "nests": 22185,
+        "species_count": 21
+      },
+      {
+        "year": 2015,
+        "birds": 14085,
+        "nests": 10190,
+        "species_count": 14
+      },
+      {
+        "year": 2018,
+        "birds": 24140,
+        "nests": 16679,
+        "species_count": 14
+      },
+      {
+        "year": 2021,
+        "birds": 1868,
+        "nests": 1437,
+        "species_count": 8
+      }
+    ]
+  },
+  {
+    "name": "Drum Bay Island",
+    "lat": 29.9197,
+    "lng": -89.26269999999998,
+    "sample_image": "avian_monitoring/high_resolution_photos/2010/Biloxi North/Drum Bay Island/07May10Camera1-Card1-0708.jpg",
+    "top_species": [
+      "LAGU",
+      "BRPE",
+      "ROYT"
+    ],
+    "history": [
+      {
+        "year": 2010,
+        "birds": 2728,
+        "nests": 1245,
+        "species_count": 13
+      },
+      {
+        "year": 2011,
+        "birds": 2872,
+        "nests": 2639,
+        "species_count": 10
+      },
+      {
+        "year": 2012,
+        "birds": 5265,
+        "nests": 4261,
+        "species_count": 13
+      },
+      {
+        "year": 2013,
+        "birds": 3287,
+        "nests": 2035,
+        "species_count": 14
+      },
+      {
+        "year": 2015,
+        "birds": 1711,
+        "nests": 1145,
+        "species_count": 4
+      },
+      {
+        "year": 2018,
+        "birds": 106,
+        "nests": 97,
+        "species_count": 1
+      },
+      {
+        "year": 2021,
+        "birds": 3071,
+        "nests": 2343,
+        "species_count": 6
+      }
+    ]
+  },
+  {
+    "name": "Wine Island",
+    "lat": 29.0948,
+    "lng": -90.6108,
+    "sample_image": "avian_monitoring/high_resolution_photos/2010/Terrebonne Bay/Wine Island/17May10Camera1-Card1-0328.jpg",
+    "top_species": [
+      "ROYT",
+      "SATE",
+      "BRPE"
+    ],
+    "history": [
+      {
+        "year": 2010,
+        "birds": 9796,
+        "nests": 8678,
+        "species_count": 7
+      },
+      {
+        "year": 2011,
+        "birds": 9979,
+        "nests": 7687,
+        "species_count": 7
+      },
+      {
+        "year": 2012,
+        "birds": 557,
+        "nests": 45,
+        "species_count": 6
+      },
+      {
+        "year": 2013,
+        "birds": 28,
+        "nests": 25,
+        "species_count": 1
+      },
+      {
+        "year": 2015,
+        "birds": 155,
+        "nests": 0,
+        "species_count": 8
+      }
+    ]
+  },
+  {
+    "name": "Manilla Island",
+    "lat": 29.4308,
+    "lng": -89.9732,
+    "sample_image": "avian_monitoring/high_resolution_photos/2010/Barataria Bay/Manilla Island/14June10Camera1-Card1-0383.jpg",
+    "top_species": [
+      "FOTE"
+    ],
+    "history": [
+      {
+        "year": 2010,
+        "birds": 177,
+        "nests": 173,
+        "species_count": 1
+      },
+      {
+        "year": 2011,
+        "birds": 530,
+        "nests": 488,
+        "species_count": 1
+      },
+      {
+        "year": 2012,
+        "birds": 805,
+        "nests": 650,
+        "species_count": 1
+      },
+      {
+        "year": 2013,
+        "birds": 201,
+        "nests": 152,
+        "species_count": 1
+      },
+      {
+        "year": 2015,
+        "birds": 441,
+        "nests": 333,
+        "species_count": 1
+      },
+      {
+        "year": 2018,
+        "birds": 173,
+        "nests": 107,
+        "species_count": 1
+      }
+    ]
+  },
+  {
+    "name": "Willet Island",
+    "lat": 29.407,
+    "lng": -89.2903,
+    "sample_image": "avian_monitoring/high_resolution_photos/2010/Birdsfoot East/Willet Island/14June10Camera1-Card2-0094.jpg",
+    "top_species": [
+      "CATE",
+      "LAGU"
+    ],
+    "history": [
+      {
+        "year": 2010,
+        "birds": 118,
+        "nests": 84,
+        "species_count": 2
+      }
+    ]
+  },
+  {
+    "name": "Bird Island Birdsfoot",
+    "lat": 29.391585,
+    "lng": -89.3212,
+    "sample_image": null,
+    "top_species": [
+      "BLSK",
+      "UNTE",
+      "GBTE"
+    ],
+    "history": [
+      {
+        "year": 2010,
+        "birds": 2354,
+        "nests": 1056,
+        "species_count": 4
+      }
+    ]
+  },
+  {
+    "name": "Biloxi North 18",
+    "lat": 29.992825,
+    "lng": -89.24956799999998,
+    "sample_image": "avian_monitoring/high_resolution_photos/2010/Biloxi North/Biloxi North 18/07May10Camera1-Card1-0658.jpg",
+    "top_species": [
+      "LAGU",
+      "ROYT",
+      "FOTE"
+    ],
+    "history": [
+      {
+        "year": 2010,
+        "birds": 64,
+        "nests": 2,
+        "species_count": 3
+      },
+      {
+        "year": 2021,
+        "birds": 1583,
+        "nests": 1306,
+        "species_count": 9
+      }
+    ]
+  },
+  {
+    "name": "Biloxi North 17",
+    "lat": 29.9751,
+    "lng": -89.2762,
+    "sample_image": "avian_monitoring/high_resolution_photos/2010/Biloxi North/Biloxi North 17/07May10Camera1-Card1-0648.jpg",
+    "top_species": [
+      "FOTE",
+      "SATE",
+      "LAGU"
+    ],
+    "history": [
+      {
+        "year": 2010,
+        "birds": 147,
+        "nests": 5,
+        "species_count": 7
+      }
+    ]
+  },
+  {
+    "name": "Birdsfoot West 2",
+    "lat": 29.1875,
+    "lng": -89.31229999999998,
+    "sample_image": "avian_monitoring/high_resolution_photos/2010/Birdsfoot West/Birdsfoot West 2/14June10Camera1-Card2-0103.jpg",
+    "top_species": [
+      "GBTE",
+      "BLSK",
+      "CATE"
+    ],
+    "history": [
+      {
+        "year": 2010,
+        "birds": 838,
+        "nests": 436,
+        "species_count": 4
+      },
+      {
+        "year": 2011,
+        "birds": 289,
+        "nests": 289,
+        "species_count": 1
+      },
+      {
+        "year": 2012,
+        "birds": 94,
+        "nests": 94,
+        "species_count": 1
+      }
+    ]
+  },
+  {
+    "name": "Biloxi North 16",
+    "lat": 29.9984,
+    "lng": -89.2924,
+    "sample_image": "avian_monitoring/high_resolution_photos/2010/Biloxi North/Biloxi North 16/07May10Camera1-Card1-0643.jpg",
+    "top_species": [
+      "LAGU",
+      "WHIB",
+      "TRHE"
+    ],
+    "history": [
+      {
+        "year": 2010,
+        "birds": 205,
+        "nests": 74,
+        "species_count": 8
+      },
+      {
+        "year": 2011,
+        "birds": 277,
+        "nests": 277,
+        "species_count": 8
+      },
+      {
+        "year": 2012,
+        "birds": 597,
+        "nests": 597,
+        "species_count": 7
+      },
+      {
+        "year": 2013,
+        "birds": 1048,
+        "nests": 813,
+        "species_count": 10
+      },
+      {
+        "year": 2015,
+        "birds": 578,
+        "nests": 427,
+        "species_count": 7
+      },
+      {
+        "year": 2018,
+        "birds": 886,
+        "nests": 716,
+        "species_count": 9
+      },
+      {
+        "year": 2021,
+        "birds": 2368,
+        "nests": 2116,
+        "species_count": 10
+      }
+    ]
+  },
+  {
+    "name": "Birdsfoot West 1",
+    "lat": 29.2054,
+    "lng": -89.3549,
+    "sample_image": "avian_monitoring/high_resolution_photos/2010/Birdsfoot West/Birdsfoot West 1/14June10Camera1-Card2-0139.jpg",
+    "top_species": [
+      "WHIB",
+      "SNEG",
+      "DAIB"
+    ],
+    "history": [
+      {
+        "year": 2010,
+        "birds": 362,
+        "nests": 282,
+        "species_count": 2
+      },
+      {
+        "year": 2012,
+        "birds": 153,
+        "nests": 153,
+        "species_count": 4
+      }
+    ]
+  },
+  {
+    "name": "Biloxi North 12",
+    "lat": 30.042,
+    "lng": -89.27299999999998,
+    "sample_image": "avian_monitoring/high_resolution_photos/2010/Biloxi North/Biloxi North 12/07May10Camera1-Card1-0637.jpg",
+    "top_species": [
+      "LAGU",
+      "TRHE",
+      "WHIB"
+    ],
+    "history": [
+      {
+        "year": 2010,
+        "birds": 51,
+        "nests": 6,
+        "species_count": 3
+      },
+      {
+        "year": 2011,
+        "birds": 773,
+        "nests": 650,
+        "species_count": 7
+      },
+      {
+        "year": 2012,
+        "birds": 317,
+        "nests": 317,
+        "species_count": 1
+      },
+      {
+        "year": 2013,
+        "birds": 1160,
+        "nests": 820,
+        "species_count": 7
+      },
+      {
+        "year": 2015,
+        "birds": 656,
+        "nests": 412,
+        "species_count": 2
+      },
+      {
+        "year": 2018,
+        "birds": 3814,
+        "nests": 3049,
+        "species_count": 7
+      },
+      {
+        "year": 2021,
+        "birds": 3524,
+        "nests": 3194,
+        "species_count": 11
+      }
+    ]
+  },
+  {
+    "name": "Little Mud Grass Island Northeast",
+    "lat": 29.9628,
+    "lng": -89.3156,
+    "sample_image": "avian_monitoring/high_resolution_photos/2010/Biloxi North/Little Mud Grass Island Northeast/07May10Camera1-Card1-0610.jpg",
+    "top_species": [
+      "LAGU",
+      "TRHE",
+      "SNEG"
+    ],
+    "history": [
+      {
+        "year": 2010,
+        "birds": 345,
+        "nests": 55,
+        "species_count": 11
+      },
+      {
+        "year": 2011,
+        "birds": 361,
+        "nests": 361,
+        "species_count": 5
+      },
+      {
+        "year": 2013,
+        "birds": 549,
+        "nests": 468,
+        "species_count": 7
+      },
+      {
+        "year": 2015,
+        "birds": 388,
+        "nests": 326,
+        "species_count": 10
+      },
+      {
+        "year": 2018,
+        "birds": 463,
+        "nests": 357,
+        "species_count": 8
+      },
+      {
+        "year": 2021,
+        "birds": 709,
+        "nests": 594,
+        "species_count": 7
+      }
+    ]
+  },
+  {
+    "name": "Martin Island",
+    "lat": 29.959,
+    "lng": -89.1984,
+    "sample_image": "avian_monitoring/high_resolution_photos/2010/Biloxi North/Martin Island/07May10Camera1-Card1-0539.jpg",
+    "top_species": [
+      "BLSK",
+      "LAGU",
+      "BRPE"
+    ],
+    "history": [
+      {
+        "year": 2010,
+        "birds": 8096,
+        "nests": 3760,
+        "species_count": 17
+      },
+      {
+        "year": 2011,
+        "birds": 960,
+        "nests": 233,
+        "species_count": 6
+      },
+      {
+        "year": 2013,
+        "birds": 313,
+        "nests": 208,
+        "species_count": 3
+      },
+      {
+        "year": 2015,
+        "birds": 756,
+        "nests": 348,
+        "species_count": 9
+      },
+      {
+        "year": 2018,
+        "birds": 385,
+        "nests": 116,
+        "species_count": 5
+      },
+      {
+        "year": 2021,
+        "birds": 369,
+        "nests": 0,
+        "species_count": 4
+      }
+    ]
+  },
+  {
+    "name": "Hell Pass Coast D",
+    "lat": 29.9229,
+    "lng": -89.31514,
+    "sample_image": "avian_monitoring/high_resolution_photos/2010/Biloxi North/Hell Pass Coast D/07May10Camera1-Card1-0579.jpg",
+    "top_species": [
+      "LAGU",
+      "SATE",
+      "ROYT"
+    ],
+    "history": [
+      {
+        "year": 2010,
+        "birds": 450,
+        "nests": 37,
+        "species_count": 12
+      },
+      {
+        "year": 2015,
+        "birds": 79,
+        "nests": 48,
+        "species_count": 3
+      },
+      {
+        "year": 2018,
+        "birds": 162,
+        "nests": 128,
+        "species_count": 1
+      },
+      {
+        "year": 2021,
+        "birds": 98,
+        "nests": 74,
+        "species_count": 2
+      }
+    ]
+  },
+  {
+    "name": "Biloxi North 28",
+    "lat": 29.9168,
+    "lng": -89.4183,
+    "sample_image": "avian_monitoring/high_resolution_photos/2010/Biloxi North/Biloxi North 28/07May10Camera1-Card1-0557.jpg",
+    "top_species": [
+      "FOTE",
+      "LAGU",
+      "TRHE"
+    ],
+    "history": [
+      {
+        "year": 2010,
+        "birds": 67,
+        "nests": 35,
+        "species_count": 1
+      },
+      {
+        "year": 2011,
+        "birds": 367,
+        "nests": 314,
+        "species_count": 4
+      },
+      {
+        "year": 2013,
+        "birds": 108,
+        "nests": 87,
+        "species_count": 1
+      }
+    ]
+  },
+  {
+    "name": "Biloxi Lake B 2",
+    "lat": 29.9207,
+    "lng": -89.5374,
+    "sample_image": "avian_monitoring/high_resolution_photos/2010/Biloxi North/Biloxi Lake B 2/07May10Camera1-Card1-0553.jpg",
+    "top_species": [
+      "LAGU",
+      "UNSB",
+      "ROYT"
+    ],
+    "history": [
+      {
+        "year": 2010,
+        "birds": 67,
+        "nests": 13,
+        "species_count": 5
+      }
+    ]
+  },
+  {
+    "name": "Turtle Pen Isle",
+    "lat": 29.938,
+    "lng": -89.242,
+    "sample_image": "avian_monitoring/high_resolution_photos/2010/Biloxi North/Turtle Pen Isle/07May10Camera2-Card1-4817.jpg",
+    "top_species": [
+      "LAGU",
+      "BLSK",
+      "BRPE"
+    ],
+    "history": [
+      {
+        "year": 2010,
+        "birds": 205,
+        "nests": 0,
+        "species_count": 3
+      },
+      {
+        "year": 2011,
+        "birds": 115,
+        "nests": 40,
+        "species_count": 3
+      },
+      {
+        "year": 2013,
+        "birds": 122,
+        "nests": 100,
+        "species_count": 3
+      },
+      {
+        "year": 2015,
+        "birds": 109,
+        "nests": 56,
+        "species_count": 3
+      },
+      {
+        "year": 2018,
+        "birds": 2021,
+        "nests": 1239,
+        "species_count": 2
+      },
+      {
+        "year": 2021,
+        "birds": 1850,
+        "nests": 768,
+        "species_count": 7
+      }
+    ]
+  },
+  {
+    "name": "New Harbor Island 1",
+    "lat": 29.87609,
+    "lng": -88.87681999999998,
+    "sample_image": "avian_monitoring/high_resolution_photos/2010/Breton-Chandeleur Islands/New Harbor Island 1/07May10Camera1-Card1-0469.jpg",
+    "top_species": [
+      "LAGU",
+      "BRPE",
+      "SATE"
+    ],
+    "history": [
+      {
+        "year": 2010,
+        "birds": 21,
+        "nests": 13,
+        "species_count": 2
+      },
+      {
+        "year": 2011,
+        "birds": 1118,
+        "nests": 565,
+        "species_count": 13
+      },
+      {
+        "year": 2012,
+        "birds": 0,
+        "nests": 0,
+        "species_count": 1
+      },
+      {
+        "year": 2013,
+        "birds": 36,
+        "nests": 15,
+        "species_count": 3
+      },
+      {
+        "year": 2015,
+        "birds": 314,
+        "nests": 199,
+        "species_count": 2
+      },
+      {
+        "year": 2018,
+        "birds": 922,
+        "nests": 15,
+        "species_count": 7
+      }
+    ]
+  },
+  {
+    "name": "Biloxi North 15",
+    "lat": 29.9943,
+    "lng": -89.2162,
+    "sample_image": "avian_monitoring/high_resolution_photos/2010/Biloxi North/Biloxi North 15/07May10Camera1-Card1-0499.jpg",
+    "top_species": [
+      "BLSK",
+      "LAGU",
+      "ROSA"
+    ],
+    "history": [
+      {
+        "year": 2010,
+        "birds": 174,
+        "nests": 44,
+        "species_count": 5
+      }
+    ]
+  },
+  {
+    "name": "Redfish Bend",
+    "lat": 29.9679,
+    "lng": -89.22759999999998,
+    "sample_image": "avian_monitoring/high_resolution_photos/2010/Biloxi North/Redfish Bend/07May10Camera1-Card1-0503.jpg",
+    "top_species": [
+      "ROYT",
+      "LAGU",
+      "BRPE"
+    ],
+    "history": [
+      {
+        "year": 2010,
+        "birds": 172,
+        "nests": 42,
+        "species_count": 4
+      },
+      {
+        "year": 2011,
+        "birds": 1066,
+        "nests": 649,
+        "species_count": 8
+      },
+      {
+        "year": 2013,
+        "birds": 940,
+        "nests": 676,
+        "species_count": 5
+      },
+      {
+        "year": 2015,
+        "birds": 2129,
+        "nests": 1700,
+        "species_count": 7
+      },
+      {
+        "year": 2018,
+        "birds": 723,
+        "nests": 427,
+        "species_count": 7
+      },
+      {
+        "year": 2021,
+        "birds": 1793,
+        "nests": 706,
+        "species_count": 8
+      }
+    ]
+  },
+  {
+    "name": "Raccoon Island",
+    "lat": 29.0505,
+    "lng": -90.9266,
+    "sample_image": "avian_monitoring/high_resolution_photos/2010/Terrebonne Bay/Raccoon Island/17May10Camera2-Card1-5410.jpg",
+    "top_species": [
+      "LAGU",
+      "SATE",
+      "ROYT"
+    ],
+    "history": [
+      {
+        "year": 2010,
+        "birds": 49651,
+        "nests": 42236,
+        "species_count": 15
+      },
+      {
+        "year": 2011,
+        "birds": 72659,
+        "nests": 51506,
+        "species_count": 18
+      },
+      {
+        "year": 2012,
+        "birds": 29571,
+        "nests": 24231,
+        "species_count": 16
+      },
+      {
+        "year": 2013,
+        "birds": 29738,
+        "nests": 23266,
+        "species_count": 13
+      },
+      {
+        "year": 2015,
+        "birds": 42542,
+        "nests": 31895,
+        "species_count": 13
+      },
+      {
+        "year": 2018,
+        "birds": 74544,
+        "nests": 60533,
+        "species_count": 14
+      },
+      {
+        "year": 2021,
+        "birds": 52232,
+        "nests": 44966,
+        "species_count": 20
+      }
+    ]
+  },
+  {
+    "name": "Door Point Lagoon 1",
+    "lat": 30.0637,
+    "lng": -89.1928,
+    "sample_image": "avian_monitoring/high_resolution_photos/2010/Biloxi North/Door Point Lagoon 1/18May10Camera1-Card1-0407.jpg",
+    "top_species": [
+      "LAGU",
+      "BRPE",
+      "BLSK"
+    ],
+    "history": [
+      {
+        "year": 2010,
+        "birds": 976,
+        "nests": 499,
+        "species_count": 4
+      },
+      {
+        "year": 2012,
+        "birds": 1722,
+        "nests": 1285,
+        "species_count": 4
+      },
+      {
+        "year": 2013,
+        "birds": 1091,
+        "nests": 736,
+        "species_count": 5
+      },
+      {
+        "year": 2015,
+        "birds": 2691,
+        "nests": 927,
+        "species_count": 7
+      },
+      {
+        "year": 2018,
+        "birds": 685,
+        "nests": 447,
+        "species_count": 2
+      },
+      {
+        "year": 2021,
+        "birds": 1095,
+        "nests": 587,
+        "species_count": 2
+      }
+    ]
+  },
+  {
+    "name": "Door Point Lagoon 2",
+    "lat": 30.06117,
+    "lng": -89.18415,
+    "sample_image": "avian_monitoring/high_resolution_photos/2010/Biloxi North/Door Point Lagoon 2/18May10Camera1-Card1-0454.jpg",
+    "top_species": [
+      "LAGU",
+      "BRPE",
+      "BLSK"
+    ],
+    "history": [
+      {
+        "year": 2010,
+        "birds": 398,
+        "nests": 221,
+        "species_count": 2
+      },
+      {
+        "year": 2011,
+        "birds": 4471,
+        "nests": 2883,
+        "species_count": 8
+      },
+      {
+        "year": 2012,
+        "birds": 2612,
+        "nests": 1503,
+        "species_count": 9
+      },
+      {
+        "year": 2013,
+        "birds": 1206,
+        "nests": 640,
+        "species_count": 5
+      },
+      {
+        "year": 2015,
+        "birds": 3169,
+        "nests": 1950,
+        "species_count": 11
+      },
+      {
+        "year": 2018,
+        "birds": 781,
+        "nests": 291,
+        "species_count": 6
+      },
+      {
+        "year": 2021,
+        "birds": 2268,
+        "nests": 766,
+        "species_count": 10
+      }
+    ]
+  },
+  {
+    "name": "Biloxi North 7",
+    "lat": 30.0578,
+    "lng": -89.20109999999998,
+    "sample_image": "avian_monitoring/high_resolution_photos/2010/Biloxi North/Biloxi North 7/18May10Camera1-Card1-0473.jpg",
+    "top_species": [
+      "BRPE",
+      "LAGU",
+      "AWPE"
+    ],
+    "history": [
+      {
+        "year": 2010,
+        "birds": 1175,
+        "nests": 487,
+        "species_count": 3
+      },
+      {
+        "year": 2012,
+        "birds": 907,
+        "nests": 486,
+        "species_count": 5
+      },
+      {
+        "year": 2013,
+        "birds": 372,
+        "nests": 238,
+        "species_count": 2
+      },
+      {
+        "year": 2015,
+        "birds": 760,
+        "nests": 534,
+        "species_count": 4
+      },
+      {
+        "year": 2021,
+        "birds": 1048,
+        "nests": 800,
+        "species_count": 3
+      }
+    ]
+  },
+  {
+    "name": "Biloxi North 8",
+    "lat": 30.0525,
+    "lng": -89.1944,
+    "sample_image": "avian_monitoring/high_resolution_photos/2010/Biloxi North/Biloxi North 8/18May10Camera1-Card1-0562.jpg",
+    "top_species": [
+      "LAGU",
+      "BRPE",
+      "TRHE"
+    ],
+    "history": [
+      {
+        "year": 2010,
+        "birds": 242,
+        "nests": 133,
+        "species_count": 2
+      },
+      {
+        "year": 2013,
+        "birds": 477,
+        "nests": 324,
+        "species_count": 2
+      },
+      {
+        "year": 2015,
+        "birds": 4,
+        "nests": 2,
+        "species_count": 1
+      },
+      {
+        "year": 2018,
+        "birds": 918,
+        "nests": 687,
+        "species_count": 2
+      },
+      {
+        "year": 2021,
+        "birds": 619,
+        "nests": 369,
+        "species_count": 7
+      }
+    ]
+  },
+  {
+    "name": "Chandeleur South A",
+    "lat": 29.809332,
+    "lng": -88.861067,
+    "sample_image": "avian_monitoring/high_resolution_photos/2010/Breton-Chandeleur Islands/Chandeleur South A/07May10Camera1-Card1-0373.jpg",
+    "top_species": [
+      "SATE",
+      "ROYT",
+      "BLSK"
+    ],
+    "history": [
+      {
+        "year": 2010,
+        "birds": 3278,
+        "nests": 1288,
+        "species_count": 9
+      },
+      {
+        "year": 2011,
+        "birds": 164,
+        "nests": 79,
+        "species_count": 5
+      },
+      {
+        "year": 2012,
+        "birds": 273,
+        "nests": 217,
+        "species_count": 4
+      },
+      {
+        "year": 2013,
+        "birds": 942,
+        "nests": 592,
+        "species_count": 6
+      },
+      {
+        "year": 2015,
+        "birds": 9,
+        "nests": 2,
+        "species_count": 2
+      },
+      {
+        "year": 2018,
+        "birds": 22,
+        "nests": 13,
+        "species_count": 1
+      },
+      {
+        "year": 2021,
+        "birds": 2497,
+        "nests": 2107,
+        "species_count": 6
+      }
+    ]
+  },
+  {
+    "name": "Chandeleur South C",
+    "lat": 29.780414,
+    "lng": -88.87419199999998,
+    "sample_image": "avian_monitoring/high_resolution_photos/2010/Breton-Chandeleur Islands/Chandeleur South C/07May10Camera1-Card1-0280.jpg",
+    "top_species": [
+      "SATE",
+      "ROYT",
+      "LAGU"
+    ],
+    "history": [
+      {
+        "year": 2010,
+        "birds": 711,
+        "nests": 95,
+        "species_count": 5
+      },
+      {
+        "year": 2011,
+        "birds": 30,
+        "nests": 30,
+        "species_count": 1
+      },
+      {
+        "year": 2012,
+        "birds": 5340,
+        "nests": 4797,
+        "species_count": 6
+      },
+      {
+        "year": 2013,
+        "birds": 228,
+        "nests": 57,
+        "species_count": 5
+      },
+      {
+        "year": 2015,
+        "birds": 19954,
+        "nests": 17868,
+        "species_count": 5
+      },
+      {
+        "year": 2018,
+        "birds": 20230,
+        "nests": 18830,
+        "species_count": 6
+      },
+      {
+        "year": 2021,
+        "birds": 722,
+        "nests": 499,
+        "species_count": 6
+      }
+    ]
+  },
+  {
+    "name": "Raccoon Island West",
+    "lat": 29.0596,
+    "lng": -90.9416,
+    "sample_image": "avian_monitoring/high_resolution_photos/2010/Terrebonne Bay/Raccoon Island West/17May10Camera1-Card1-0810.jpg",
+    "top_species": [
+      "BLSK",
+      "ROYT",
+      "SATE"
+    ],
+    "history": [
+      {
+        "year": 2010,
+        "birds": 249,
+        "nests": 184,
+        "species_count": 5
+      },
+      {
+        "year": 2011,
+        "birds": 6348,
+        "nests": 3331,
+        "species_count": 9
+      },
+      {
+        "year": 2012,
+        "birds": 1896,
+        "nests": 219,
+        "species_count": 6
+      },
+      {
+        "year": 2013,
+        "birds": 3524,
+        "nests": 1694,
+        "species_count": 7
+      },
+      {
+        "year": 2015,
+        "birds": 852,
+        "nests": 451,
+        "species_count": 5
+      }
+    ]
+  },
+  {
+    "name": "Heron Island",
+    "lat": 29.4282,
+    "lng": -91.3287,
+    "sample_image": "avian_monitoring/high_resolution_photos/2010/Atchafalaya Bay/Heron Island/17May10Camera1-Card1-0925.jpg",
+    "top_species": [
+      "GREG",
+      "GBHE",
+      "SNEG"
+    ],
+    "history": [
+      {
+        "year": 2010,
+        "birds": 231,
+        "nests": 217,
+        "species_count": 3
+      },
+      {
+        "year": 2011,
+        "birds": 125,
+        "nests": 170,
+        "species_count": 4
+      },
+      {
+        "year": 2012,
+        "birds": 118,
+        "nests": 170,
+        "species_count": 5
+      },
+      {
+        "year": 2013,
+        "birds": 183,
+        "nests": 185,
+        "species_count": 7
+      },
+      {
+        "year": 2015,
+        "birds": 245,
+        "nests": 197,
+        "species_count": 7
+      },
+      {
+        "year": 2018,
+        "birds": 134,
+        "nests": 100,
+        "species_count": 5
+      },
+      {
+        "year": 2021,
+        "birds": 349,
+        "nests": 370,
+        "species_count": 5
+      }
+    ]
+  },
+  {
+    "name": "Skimmer Island",
+    "lat": 29.3864,
+    "lng": -91.3836,
+    "sample_image": "avian_monitoring/high_resolution_photos/2010/Atchafalaya Bay/Skimmer Island/17May10Camera1-Card1-0909.jpg",
+    "top_species": [
+      "WHIB",
+      "LAGU",
+      "TRHE"
+    ],
+    "history": [
+      {
+        "year": 2010,
+        "birds": 3815,
+        "nests": 2823,
+        "species_count": 6
+      },
+      {
+        "year": 2011,
+        "birds": 6796,
+        "nests": 5355,
+        "species_count": 12
+      },
+      {
+        "year": 2012,
+        "birds": 14612,
+        "nests": 10232,
+        "species_count": 9
+      },
+      {
+        "year": 2013,
+        "birds": 8259,
+        "nests": 5903,
+        "species_count": 11
+      },
+      {
+        "year": 2015,
+        "birds": 8168,
+        "nests": 8913,
+        "species_count": 10
+      },
+      {
+        "year": 2018,
+        "birds": 93,
+        "nests": 79,
+        "species_count": 2
+      }
+    ]
+  },
+  {
+    "name": "Vermilion Bay 1",
+    "lat": 29.3141,
+    "lng": -91.3429,
+    "sample_image": "avian_monitoring/high_resolution_photos/2010/Atchafalaya Bay/Vermilion Bay 1/17May10Camera1-Card1-0822.jpg",
+    "top_species": [
+      "ROYT",
+      "SATE",
+      "BRPE"
+    ],
+    "history": [
+      {
+        "year": 2010,
+        "birds": 362,
+        "nests": 0,
+        "species_count": 5
+      }
+    ]
+  },
+  {
+    "name": "Bayou Platte Island South",
+    "lat": 29.6069,
+    "lng": -91.8913,
+    "sample_image": "avian_monitoring/high_resolution_photos/2010/Vermilion Bay/Bayou Platte Island South/17May10Camera1-Card1-0976.jpg",
+    "top_species": [
+      "BLSK",
+      "GBTE",
+      "FOTE"
+    ],
+    "history": [
+      {
+        "year": 2010,
+        "birds": 194,
+        "nests": 116,
+        "species_count": 3
+      },
+      {
+        "year": 2011,
+        "birds": 804,
+        "nests": 722,
+        "species_count": 4
+      },
+      {
+        "year": 2012,
+        "birds": 916,
+        "nests": 596,
+        "species_count": 3
+      },
+      {
+        "year": 2013,
+        "birds": 2633,
+        "nests": 1616,
+        "species_count": 5
+      },
+      {
+        "year": 2015,
+        "birds": 1059,
+        "nests": 652,
+        "species_count": 6
+      },
+      {
+        "year": 2018,
+        "birds": 627,
+        "nests": 270,
+        "species_count": 3
+      },
+      {
+        "year": 2021,
+        "birds": 92,
+        "nests": 49,
+        "species_count": 4
+      }
+    ]
+  },
+  {
+    "name": "Louisiana West 1",
+    "lat": 29.5776,
+    "lng": -92.5678,
+    "sample_image": "avian_monitoring/high_resolution_photos/2010/Sabine-Calcasieu/Louisiana West 1/17May10Camera1-Card1-1013.jpg",
+    "top_species": [
+      "CATE",
+      "LAGU",
+      "ROYT"
+    ],
+    "history": [
+      {
+        "year": 2010,
+        "birds": 714,
+        "nests": 0,
+        "species_count": 7
+      }
+    ]
+  },
+  {
+    "name": "Louisiana West 2",
+    "lat": 29.5967,
+    "lng": -92.6617,
+    "sample_image": "avian_monitoring/high_resolution_photos/2010/Sabine-Calcasieu/Louisiana West 2/17May10Camera1-Card1-1056.jpg",
+    "top_species": [
+      "CATE",
+      "ROYT",
+      "BRPE"
+    ],
+    "history": [
+      {
+        "year": 2010,
+        "birds": 130,
+        "nests": 0,
+        "species_count": 5
+      }
+    ]
+  },
+  {
+    "name": "Louisiana West 3",
+    "lat": 29.6137,
+    "lng": -92.7139,
+    "sample_image": "avian_monitoring/high_resolution_photos/2010/Sabine-Calcasieu/Louisiana West 3/17May10Camera1-Card1-1062.jpg",
+    "top_species": [
+      "CATE",
+      "FOTE",
+      "ROYT"
+    ],
+    "history": [
+      {
+        "year": 2010,
+        "birds": 149,
+        "nests": 0,
+        "species_count": 6
+      }
+    ]
+  },
+  {
+    "name": "Barataria Bay 4",
+    "lat": 29.3261,
+    "lng": -89.8319,
+    "sample_image": "avian_monitoring/high_resolution_photos/2010/Barataria Bay/Barataria Bay 4/14June10Camera1-Card1-0048.jpg",
+    "top_species": [
+      "WHIB"
+    ],
+    "history": [
+      {
+        "year": 2010,
+        "birds": 16,
+        "nests": 0,
+        "species_count": 1
+      }
+    ]
+  },
+  {
+    "name": "Louisiana West 4",
+    "lat": 29.6407,
+    "lng": -92.7851,
+    "sample_image": "avian_monitoring/high_resolution_photos/2010/Sabine-Calcasieu/Louisiana West 4/17May10Camera1-Card1-1076.jpg",
+    "top_species": [
+      "CARO",
+      "LAGU",
+      "FOCO"
+    ],
+    "history": [
+      {
+        "year": 2010,
+        "birds": 360,
+        "nests": 0,
+        "species_count": 6
+      }
+    ]
+  },
+  {
+    "name": "Louisiana West 5",
+    "lat": 29.6755,
+    "lng": -92.8694,
+    "sample_image": "avian_monitoring/high_resolution_photos/2010/Sabine-Calcasieu/Louisiana West 5/17May10Camera1-Card1-1088.jpg",
+    "top_species": [
+      "CATE",
+      "ROYT",
+      "LAGU"
+    ],
+    "history": [
+      {
+        "year": 2010,
+        "birds": 122,
+        "nests": 0,
+        "species_count": 5
+      }
+    ]
+  },
+  {
+    "name": "West Karako Bay Islet",
+    "lat": 30.0049,
+    "lng": -89.2309,
+    "sample_image": "avian_monitoring/high_resolution_photos/2010/Biloxi North/West Karako Bay Islet/18May10Camera1-Card1-0163.jpg",
+    "top_species": [
+      "BLSK",
+      "LAGU",
+      "GBTE"
+    ],
+    "history": [
+      {
+        "year": 2010,
+        "birds": 50,
+        "nests": 0,
+        "species_count": 6
+      },
+      {
+        "year": 2012,
+        "birds": 568,
+        "nests": 568,
+        "species_count": 4
+      }
+    ]
+  },
+  {
+    "name": "Bay Ronquille Northeast Island",
+    "lat": 29.3659,
+    "lng": -89.8357,
+    "sample_image": "avian_monitoring/high_resolution_photos/2010/Barataria Bay/Bay Ronquille Northeast Island/08May10Camera1-Card1-0723.jpg",
+    "top_species": [
+      "LAGU",
+      "BRPE",
+      "FOTE"
+    ],
+    "history": [
+      {
+        "year": 2010,
+        "birds": 771,
+        "nests": 498,
+        "species_count": 6
+      },
+      {
+        "year": 2011,
+        "birds": 1385,
+        "nests": 712,
+        "species_count": 6
+      },
+      {
+        "year": 2012,
+        "birds": 644,
+        "nests": 297,
+        "species_count": 5
+      },
+      {
+        "year": 2013,
+        "birds": 22,
+        "nests": 0,
+        "species_count": 2
+      }
+    ]
+  },
+  {
+    "name": "Grand Island Point",
+    "lat": 29.3727,
+    "lng": -89.89289999999998,
+    "sample_image": "avian_monitoring/high_resolution_photos/2010/Barataria Bay/Grand Island Point/08May10Camera2-Card1-5168.jpg",
+    "top_species": [
+      "LAGU",
+      "FOTE",
+      "ROYT"
+    ],
+    "history": [
+      {
+        "year": 2010,
+        "birds": 406,
+        "nests": 131,
+        "species_count": 5
+      },
+      {
+        "year": 2011,
+        "birds": 1789,
+        "nests": 707,
+        "species_count": 10
+      },
+      {
+        "year": 2012,
+        "birds": 2542,
+        "nests": 1543,
+        "species_count": 10
+      },
+      {
+        "year": 2013,
+        "birds": 349,
+        "nests": 5,
+        "species_count": 3
+      }
+    ]
+  },
+  {
+    "name": "Point Hunt Island",
+    "lat": 29.7471,
+    "lng": -93.8862,
+    "sample_image": "avian_monitoring/high_resolution_photos/2010/Sabine-Calcasieu/Point Hunt Island/26June10Camera2-Card1-0220.jpg",
+    "top_species": [
+      "SNEG",
+      "NECO",
+      "WHIB"
+    ],
+    "history": [
+      {
+        "year": 2010,
+        "birds": 900,
+        "nests": 200,
+        "species_count": 9
+      }
+    ]
+  },
+  {
+    "name": "Biloxi North 13",
+    "lat": 30.0261,
+    "lng": -89.2274,
+    "sample_image": "avian_monitoring/high_resolution_photos/2010/Biloxi North/Biloxi North 13/18May10Camera1-Card1-0211.jpg",
+    "top_species": [
+      "LAGU",
+      "BLSK",
+      "ROYT"
+    ],
+    "history": [
+      {
+        "year": 2010,
+        "birds": 854,
+        "nests": 498,
+        "species_count": 3
+      },
+      {
+        "year": 2011,
+        "birds": 828,
+        "nests": 430,
+        "species_count": 1
+      },
+      {
+        "year": 2012,
+        "birds": 580,
+        "nests": 516,
+        "species_count": 2
+      },
+      {
+        "year": 2013,
+        "birds": 277,
+        "nests": 162,
+        "species_count": 5
+      },
+      {
+        "year": 2015,
+        "birds": 416,
+        "nests": 277,
+        "species_count": 3
+      },
+      {
+        "year": 2018,
+        "birds": 1909,
+        "nests": 1372,
+        "species_count": 5
+      },
+      {
+        "year": 2021,
+        "birds": 803,
+        "nests": 691,
+        "species_count": 6
+      }
+    ]
+  },
+  {
+    "name": "Biloxi North 14",
+    "lat": 30.0038,
+    "lng": -89.2065,
+    "sample_image": "avian_monitoring/high_resolution_photos/2010/Biloxi North/Biloxi North 14/18May10Camera1-Card1-0220.jpg",
+    "top_species": [
+      "ROYT",
+      "SATE",
+      "LAGU"
+    ],
+    "history": [
+      {
+        "year": 2010,
+        "birds": 211,
+        "nests": 117,
+        "species_count": 4
+      },
+      {
+        "year": 2011,
+        "birds": 1158,
+        "nests": 695,
+        "species_count": 6
+      },
+      {
+        "year": 2013,
+        "birds": 473,
+        "nests": 414,
+        "species_count": 4
+      },
+      {
+        "year": 2015,
+        "birds": 1873,
+        "nests": 1393,
+        "species_count": 8
+      },
+      {
+        "year": 2018,
+        "birds": 5814,
+        "nests": 4879,
+        "species_count": 4
+      },
+      {
+        "year": 2021,
+        "birds": 175,
+        "nests": 93,
+        "species_count": 2
+      }
+    ]
+  },
+  {
+    "name": "Biloxi North 11",
+    "lat": 30.0324,
+    "lng": -89.31409999999998,
+    "sample_image": "avian_monitoring/high_resolution_photos/2010/Biloxi North/Biloxi North 11/18May10Camera1-Card1-0244.jpg",
+    "top_species": [
+      "FOTE",
+      "LAGU",
+      "BRPE"
+    ],
+    "history": [
+      {
+        "year": 2010,
+        "birds": 182,
+        "nests": 117,
+        "species_count": 6
+      },
+      {
+        "year": 2011,
+        "birds": 30,
+        "nests": 23,
+        "species_count": 1
+      },
+      {
+        "year": 2012,
+        "birds": 84,
+        "nests": 23,
+        "species_count": 2
+      },
+      {
+        "year": 2013,
+        "birds": 31,
+        "nests": 18,
+        "species_count": 2
+      },
+      {
+        "year": 2015,
+        "birds": 9,
+        "nests": 5,
+        "species_count": 1
+      },
+      {
+        "year": 2018,
+        "birds": 85,
+        "nests": 75,
+        "species_count": 3
+      }
+    ]
+  },
+  {
+    "name": "Biloxi North 10 A",
+    "lat": 30.0485,
+    "lng": -89.322,
+    "sample_image": "avian_monitoring/high_resolution_photos/2011/Biloxi North/Biloxi North 10 A/14June11Camera1-Card2-0383.jpg",
+    "top_species": [
+      "LAGU",
+      "SNEG",
+      "TRHE"
+    ],
+    "history": [
+      {
+        "year": 2010,
+        "birds": 302,
+        "nests": 217,
+        "species_count": 5
+      },
+      {
+        "year": 2011,
+        "birds": 417,
+        "nests": 326,
+        "species_count": 5
+      },
+      {
+        "year": 2012,
+        "birds": 586,
+        "nests": 450,
+        "species_count": 4
+      },
+      {
+        "year": 2013,
+        "birds": 324,
+        "nests": 248,
+        "species_count": 6
+      },
+      {
+        "year": 2015,
+        "birds": 185,
+        "nests": 137,
+        "species_count": 6
+      },
+      {
+        "year": 2018,
+        "birds": 159,
+        "nests": 126,
+        "species_count": 3
+      },
+      {
+        "year": 2021,
+        "birds": 96,
+        "nests": 91,
+        "species_count": 3
+      }
+    ]
+  },
+  {
+    "name": "Freemason Island",
+    "lat": 29.789,
+    "lng": -88.977,
+    "sample_image": "avian_monitoring/high_resolution_photos/2010/Breton-Chandeleur Islands/Freemason Island/27June10Camera2-Card1-0003.jpg",
+    "top_species": [
+      "ROYT",
+      "BRPE",
+      "UNTE"
+    ],
+    "history": [
+      {
+        "year": 2010,
+        "birds": 1647,
+        "nests": 90,
+        "species_count": 4
+      },
+      {
+        "year": 2013,
+        "birds": 1357,
+        "nests": 30,
+        "species_count": 5
+      },
+      {
+        "year": 2015,
+        "birds": 156,
+        "nests": 0,
+        "species_count": 5
+      }
+    ]
+  },
+  {
+    "name": "Biloxi North 10 C",
+    "lat": 30.0481,
+    "lng": -89.3202,
+    "sample_image": "avian_monitoring/high_resolution_photos/2010/Biloxi North/Biloxi North 10 C/18May10Camera1-Card1-0323.jpg",
+    "top_species": [
+      "LAGU",
+      "TRHE",
+      "WHIB"
+    ],
+    "history": [
+      {
+        "year": 2010,
+        "birds": 47,
+        "nests": 39,
+        "species_count": 2
+      },
+      {
+        "year": 2011,
+        "birds": 29,
+        "nests": 55,
+        "species_count": 4
+      },
+      {
+        "year": 2012,
+        "birds": 99,
+        "nests": 83,
+        "species_count": 4
+      },
+      {
+        "year": 2013,
+        "birds": 50,
+        "nests": 39,
+        "species_count": 3
+      },
+      {
+        "year": 2015,
+        "birds": 23,
+        "nests": 16,
+        "species_count": 1
+      },
+      {
+        "year": 2018,
+        "birds": 22,
+        "nests": 18,
+        "species_count": 2
+      }
+    ]
+  },
+  {
+    "name": "Biloxi North 10 D",
+    "lat": 30.0476,
+    "lng": -89.31829999999998,
+    "sample_image": "avian_monitoring/high_resolution_photos/2010/Biloxi North/Biloxi North 10 D/18May10Camera2-Card1-0116.jpg",
+    "top_species": [
+      "LAGU",
+      "TRHE",
+      "FOTE"
+    ],
+    "history": [
+      {
+        "year": 2010,
+        "birds": 57,
+        "nests": 43,
+        "species_count": 1
+      },
+      {
+        "year": 2011,
+        "birds": 119,
+        "nests": 77,
+        "species_count": 5
+      },
+      {
+        "year": 2012,
+        "birds": 55,
+        "nests": 46,
+        "species_count": 4
+      },
+      {
+        "year": 2013,
+        "birds": 54,
+        "nests": 37,
+        "species_count": 4
+      },
+      {
+        "year": 2015,
+        "birds": 64,
+        "nests": 50,
+        "species_count": 5
+      },
+      {
+        "year": 2018,
+        "birds": 26,
+        "nests": 22,
+        "species_count": 2
+      },
+      {
+        "year": 2021,
+        "birds": 18,
+        "nests": 17,
+        "species_count": 2
+      }
+    ]
+  },
+  {
+    "name": "Biloxi North 10 E",
+    "lat": 30.0502,
+    "lng": -89.3117,
+    "sample_image": "avian_monitoring/high_resolution_photos/2010/Biloxi North/Biloxi North 10 E/18May10Camera1-Card1-0342.jpg",
+    "top_species": [
+      "TRHE",
+      "WHIB",
+      "LAGU"
+    ],
+    "history": [
+      {
+        "year": 2010,
+        "birds": 71,
+        "nests": 66,
+        "species_count": 3
+      },
+      {
+        "year": 2011,
+        "birds": 622,
+        "nests": 583,
+        "species_count": 4
+      },
+      {
+        "year": 2012,
+        "birds": 796,
+        "nests": 650,
+        "species_count": 7
+      },
+      {
+        "year": 2013,
+        "birds": 259,
+        "nests": 230,
+        "species_count": 4
+      }
+    ]
+  },
+  {
+    "name": "Gosier Islands South",
+    "lat": 29.52369,
+    "lng": -89.09534999999998,
+    "sample_image": "avian_monitoring/high_resolution_photos/2010/Breton-Chandeleur Islands/Gosier Islands South/07May10Camera1-Card1-0256.jpg",
+    "top_species": [
+      "SATE",
+      "UNTE",
+      "BLSK"
+    ],
+    "history": [
+      {
+        "year": 2010,
+        "birds": 786,
+        "nests": 0,
+        "species_count": 5
+      },
+      {
+        "year": 2011,
+        "birds": 940,
+        "nests": 562,
+        "species_count": 5
+      },
+      {
+        "year": 2015,
+        "birds": 210,
+        "nests": 193,
+        "species_count": 5
+      }
+    ]
+  },
+  {
+    "name": "Chandeleur North A",
+    "lat": 29.969531,
+    "lng": -88.82772199999998,
+    "sample_image": "avian_monitoring/high_resolution_photos/2010/Breton-Chandeleur Islands/Chandeleur North A/07May10Camera1-Card1-0486.jpg",
+    "top_species": [
+      "SATE",
+      "ROYT",
+      "UNTE"
+    ],
+    "history": [
+      {
+        "year": 2010,
+        "birds": 1087,
+        "nests": 0,
+        "species_count": 2
+      },
+      {
+        "year": 2011,
+        "birds": 2993,
+        "nests": 2563,
+        "species_count": 5
+      },
+      {
+        "year": 2012,
+        "birds": 90,
+        "nests": 45,
+        "species_count": 3
+      },
+      {
+        "year": 2013,
+        "birds": 3495,
+        "nests": 2702,
+        "species_count": 4
+      },
+      {
+        "year": 2015,
+        "birds": 6830,
+        "nests": 5341,
+        "species_count": 6
+      },
+      {
+        "year": 2018,
+        "birds": 432,
+        "nests": 264,
+        "species_count": 4
+      },
+      {
+        "year": 2021,
+        "birds": 8163,
+        "nests": 7853,
+        "species_count": 3
+      }
+    ]
+  },
+  {
+    "name": "Chandeleur North B",
+    "lat": 29.949821,
+    "lng": -88.823795,
+    "sample_image": "avian_monitoring/high_resolution_photos/2010/Breton-Chandeleur Islands/Chandeleur North B/07May10Camera1-Card1-0472.jpg",
+    "top_species": [
+      "SATE",
+      "ROYT",
+      "BLSK"
+    ],
+    "history": [
+      {
+        "year": 2010,
+        "birds": 23,
+        "nests": 0,
+        "species_count": 2
+      },
+      {
+        "year": 2011,
+        "birds": 5480,
+        "nests": 4741,
+        "species_count": 7
+      },
+      {
+        "year": 2012,
+        "birds": 467,
+        "nests": 148,
+        "species_count": 5
+      },
+      {
+        "year": 2013,
+        "birds": 1986,
+        "nests": 1477,
+        "species_count": 4
+      },
+      {
+        "year": 2015,
+        "birds": 730,
+        "nests": 559,
+        "species_count": 6
+      },
+      {
+        "year": 2018,
+        "birds": 54,
+        "nests": 33,
+        "species_count": 2
+      },
+      {
+        "year": 2021,
+        "birds": 620,
+        "nests": 436,
+        "species_count": 4
+      }
+    ]
+  },
+  {
+    "name": "Chandeleur South B",
+    "lat": 29.79898,
+    "lng": -88.86415599999998,
+    "sample_image": "avian_monitoring/high_resolution_photos/2010/Breton-Chandeleur Islands/Chandeleur South B/07May10Camera1-Card1-0306.jpg",
+    "top_species": [
+      "SATE",
+      "ROYT",
+      "BLSK"
+    ],
+    "history": [
+      {
+        "year": 2010,
+        "birds": 342,
+        "nests": 0,
+        "species_count": 3
+      },
+      {
+        "year": 2011,
+        "birds": 2117,
+        "nests": 1481,
+        "species_count": 6
+      },
+      {
+        "year": 2012,
+        "birds": 24,
+        "nests": 22,
+        "species_count": 2
+      },
+      {
+        "year": 2013,
+        "birds": 9928,
+        "nests": 8566,
+        "species_count": 6
+      },
+      {
+        "year": 2015,
+        "birds": 187,
+        "nests": 126,
+        "species_count": 3
+      },
+      {
+        "year": 2018,
+        "birds": 186,
+        "nests": 128,
+        "species_count": 2
+      },
+      {
+        "year": 2021,
+        "birds": 215,
+        "nests": 128,
+        "species_count": 3
+      }
+    ]
+  },
+  {
+    "name": "Chandeleur North E",
+    "lat": 29.888395,
+    "lng": -88.82645999999998,
+    "sample_image": "avian_monitoring/high_resolution_photos/2010/Breton-Chandeleur Islands/Chandeleur North E/07May10Camera1-Card1-0386.jpg",
+    "top_species": [
+      "BLSK",
+      "LAGU",
+      "BRPE"
+    ],
+    "history": [
+      {
+        "year": 2010,
+        "birds": 198,
+        "nests": 0,
+        "species_count": 5
+      },
+      {
+        "year": 2011,
+        "birds": 10,
+        "nests": 6,
+        "species_count": 1
+      },
+      {
+        "year": 2012,
+        "birds": 146,
+        "nests": 94,
+        "species_count": 2
+      },
+      {
+        "year": 2013,
+        "birds": 111,
+        "nests": 77,
+        "species_count": 2
+      },
+      {
+        "year": 2015,
+        "birds": 216,
+        "nests": 144,
+        "species_count": 2
+      },
+      {
+        "year": 2018,
+        "birds": 174,
+        "nests": 109,
+        "species_count": 4
+      },
+      {
+        "year": 2021,
+        "birds": 620,
+        "nests": 465,
+        "species_count": 1
+      }
+    ]
+  },
+  {
+    "name": "Chandeleur North D",
+    "lat": 29.901692,
+    "lng": -88.82485099999998,
+    "sample_image": "avian_monitoring/high_resolution_photos/2010/Breton-Chandeleur Islands/Chandeleur North D/07May10Camera1-Card1-0402.jpg",
+    "top_species": [
+      "SATE",
+      "ROYT",
+      "BLSK"
+    ],
+    "history": [
+      {
+        "year": 2010,
+        "birds": 496,
+        "nests": 0,
+        "species_count": 3
+      },
+      {
+        "year": 2011,
+        "birds": 4728,
+        "nests": 4404,
+        "species_count": 8
+      },
+      {
+        "year": 2012,
+        "birds": 170,
+        "nests": 90,
+        "species_count": 3
+      },
+      {
+        "year": 2013,
+        "birds": 108,
+        "nests": 67,
+        "species_count": 2
+      },
+      {
+        "year": 2015,
+        "birds": 57,
+        "nests": 54,
+        "species_count": 2
+      },
+      {
+        "year": 2018,
+        "birds": 258,
+        "nests": 186,
+        "species_count": 4
+      },
+      {
+        "year": 2021,
+        "birds": 581,
+        "nests": 438,
+        "species_count": 7
+      }
+    ]
+  },
+  {
+    "name": "Chandeleur North C",
+    "lat": 29.929685,
+    "lng": -88.821796,
+    "sample_image": "avian_monitoring/high_resolution_photos/2010/Breton-Chandeleur Islands/Chandeleur North C/07May10Camera1-Card1-0410.jpg",
+    "top_species": [
+      "SATE",
+      "ROYT",
+      "LAGU"
+    ],
+    "history": [
+      {
+        "year": 2010,
+        "birds": 235,
+        "nests": 21,
+        "species_count": 1
+      },
+      {
+        "year": 2011,
+        "birds": 66,
+        "nests": 38,
+        "species_count": 2
+      },
+      {
+        "year": 2012,
+        "birds": 108,
+        "nests": 90,
+        "species_count": 2
+      },
+      {
+        "year": 2013,
+        "birds": 3562,
+        "nests": 3253,
+        "species_count": 6
+      },
+      {
+        "year": 2015,
+        "birds": 58,
+        "nests": 8,
+        "species_count": 4
+      },
+      {
+        "year": 2018,
+        "birds": 2301,
+        "nests": 1955,
+        "species_count": 6
+      },
+      {
+        "year": 2021,
+        "birds": 182,
+        "nests": 120,
+        "species_count": 2
+      }
+    ]
+  },
+  {
+    "name": "Biloxi South 5 A",
+    "lat": 29.6523,
+    "lng": -89.464,
+    "sample_image": "avian_monitoring/high_resolution_photos/2010/Biloxi South/Biloxi South 5 A/08May10Camera1-Card1-0151.jpg",
+    "top_species": [
+      "LAGU",
+      "BRPE",
+      "TRHE"
+    ],
+    "history": [
+      {
+        "year": 2010,
+        "birds": 1513,
+        "nests": 648,
+        "species_count": 7
+      },
+      {
+        "year": 2011,
+        "birds": 5180,
+        "nests": 3151,
+        "species_count": 6
+      },
+      {
+        "year": 2012,
+        "birds": 2293,
+        "nests": 1543,
+        "species_count": 3
+      },
+      {
+        "year": 2013,
+        "birds": 3569,
+        "nests": 1855,
+        "species_count": 8
+      },
+      {
+        "year": 2015,
+        "birds": 1771,
+        "nests": 674,
+        "species_count": 6
+      },
+      {
+        "year": 2018,
+        "birds": 1268,
+        "nests": 573,
+        "species_count": 7
+      },
+      {
+        "year": 2021,
+        "birds": 173,
+        "nests": 31,
+        "species_count": 5
+      }
+    ]
+  },
+  {
+    "name": "Biloxi North 5",
+    "lat": 30.0675,
+    "lng": -89.2069,
+    "sample_image": "avian_monitoring/high_resolution_photos/2010/Biloxi North/Biloxi North 5/18May10Camera1-Card1-0350.jpg",
+    "top_species": [
+      "LAGU",
+      "BLSK",
+      "ROYT"
+    ],
+    "history": [
+      {
+        "year": 2010,
+        "birds": 1268,
+        "nests": 494,
+        "species_count": 11
+      },
+      {
+        "year": 2013,
+        "birds": 396,
+        "nests": 194,
+        "species_count": 5
+      },
+      {
+        "year": 2015,
+        "birds": 40,
+        "nests": 27,
+        "species_count": 1
+      },
+      {
+        "year": 2018,
+        "birds": 671,
+        "nests": 375,
+        "species_count": 6
+      },
+      {
+        "year": 2021,
+        "birds": 203,
+        "nests": 75,
+        "species_count": 10
+      }
+    ]
+  },
+  {
+    "name": "Biloxi North 4",
+    "lat": 30.0909,
+    "lng": -89.2318,
+    "sample_image": "avian_monitoring/high_resolution_photos/2010/Biloxi North/Biloxi North 4/18May10Camera1-Card1-0580.jpg",
+    "top_species": [
+      "LAGU",
+      "CATE",
+      "WHIB"
+    ],
+    "history": [
+      {
+        "year": 2010,
+        "birds": 1,
+        "nests": 1,
+        "species_count": 1
+      },
+      {
+        "year": 2012,
+        "birds": 33,
+        "nests": 30,
+        "species_count": 2
+      },
+      {
+        "year": 2015,
+        "birds": 309,
+        "nests": 133,
+        "species_count": 10
+      },
+      {
+        "year": 2018,
+        "birds": 106,
+        "nests": 66,
+        "species_count": 2
+      },
+      {
+        "year": 2021,
+        "birds": 277,
+        "nests": 193,
+        "species_count": 10
+      }
+    ]
+  },
+  {
+    "name": "Half Moon Island",
+    "lat": 30.1376,
+    "lng": -89.43519999999998,
+    "sample_image": "avian_monitoring/high_resolution_photos/2010/Lake Borgne/Half Moon Island/18May10Camera1-Card1-0584.jpg",
+    "top_species": [
+      "LAGU",
+      "BLSK",
+      "TRHE"
+    ],
+    "history": [
+      {
+        "year": 2010,
+        "birds": 1447,
+        "nests": 1086,
+        "species_count": 11
+      },
+      {
+        "year": 2011,
+        "birds": 2230,
+        "nests": 2514,
+        "species_count": 8
+      },
+      {
+        "year": 2012,
+        "birds": 910,
+        "nests": 254,
+        "species_count": 9
+      },
+      {
+        "year": 2013,
+        "birds": 9368,
+        "nests": 6317,
+        "species_count": 10
+      },
+      {
+        "year": 2015,
+        "birds": 4680,
+        "nests": 2491,
+        "species_count": 11
+      },
+      {
+        "year": 2018,
+        "birds": 5017,
+        "nests": 3543,
+        "species_count": 10
+      },
+      {
+        "year": 2021,
+        "birds": 813,
+        "nests": 282,
+        "species_count": 9
+      }
+    ]
+  },
+  {
+    "name": "Biloxi North 27",
+    "lat": 29.8807,
+    "lng": -89.2497,
+    "sample_image": "avian_monitoring/high_resolution_photos/2010/Biloxi North/Biloxi North 27/27June10Camera2-Card1-0145.jpg",
+    "top_species": [
+      "BLSK",
+      "GBTE",
+      "ROYT"
+    ],
+    "history": [
+      {
+        "year": 2010,
+        "birds": 313,
+        "nests": 169,
+        "species_count": 9
+      },
+      {
+        "year": 2011,
+        "birds": 386,
+        "nests": 293,
+        "species_count": 4
+      },
+      {
+        "year": 2012,
+        "birds": 833,
+        "nests": 180,
+        "species_count": 5
+      },
+      {
+        "year": 2013,
+        "birds": 487,
+        "nests": 309,
+        "species_count": 5
+      },
+      {
+        "year": 2015,
+        "birds": 681,
+        "nests": 256,
+        "species_count": 4
+      },
+      {
+        "year": 2021,
+        "birds": 364,
+        "nests": 161,
+        "species_count": 8
+      }
+    ]
+  },
+  {
+    "name": "Biloxi South 5 B",
+    "lat": 29.6521,
+    "lng": -89.4577,
+    "sample_image": "avian_monitoring/high_resolution_photos/2010/Biloxi South/Biloxi South 5 B/08May10Camera1-Card1-0227.jpg",
+    "top_species": [
+      "LAGU",
+      "BRPE",
+      "TRHE"
+    ],
+    "history": [
+      {
+        "year": 2010,
+        "birds": 684,
+        "nests": 344,
+        "species_count": 4
+      },
+      {
+        "year": 2011,
+        "birds": 4666,
+        "nests": 2906,
+        "species_count": 6
+      },
+      {
+        "year": 2012,
+        "birds": 4356,
+        "nests": 2726,
+        "species_count": 7
+      },
+      {
+        "year": 2013,
+        "birds": 3489,
+        "nests": 1577,
+        "species_count": 7
+      },
+      {
+        "year": 2015,
+        "birds": 4796,
+        "nests": 2435,
+        "species_count": 12
+      },
+      {
+        "year": 2018,
+        "birds": 3543,
+        "nests": 1945,
+        "species_count": 7
+      },
+      {
+        "year": 2021,
+        "birds": 1661,
+        "nests": 974,
+        "species_count": 9
+      }
+    ]
+  },
+  {
+    "name": "Belle Isle",
+    "lat": 29.5758,
+    "lng": -89.5727,
+    "sample_image": "avian_monitoring/high_resolution_photos/2010/Biloxi South/Belle Isle/08May10Camera1-Card1-0286.jpg",
+    "top_species": [
+      "LAGU",
+      "FOTE",
+      "TRHE"
+    ],
+    "history": [
+      {
+        "year": 2010,
+        "birds": 1011,
+        "nests": 693,
+        "species_count": 5
+      },
+      {
+        "year": 2011,
+        "birds": 3128,
+        "nests": 1720,
+        "species_count": 10
+      },
+      {
+        "year": 2012,
+        "birds": 4895,
+        "nests": 3705,
+        "species_count": 10
+      },
+      {
+        "year": 2013,
+        "birds": 8212,
+        "nests": 5800,
+        "species_count": 9
+      },
+      {
+        "year": 2015,
+        "birds": 7010,
+        "nests": 4808,
+        "species_count": 12
+      },
+      {
+        "year": 2018,
+        "birds": 18602,
+        "nests": 12127,
+        "species_count": 10
+      },
+      {
+        "year": 2021,
+        "birds": 8162,
+        "nests": 5848,
+        "species_count": 12
+      }
+    ]
+  },
+  {
+    "name": "Bay Ronquille Northwest Island",
+    "lat": 29.3631,
+    "lng": -89.85339999999998,
+    "sample_image": "avian_monitoring/high_resolution_photos/2010/Barataria Bay/Bay Ronquille Northwest Island/08May10Camera1-Card1-0690.jpg",
+    "top_species": [
+      "LAGU",
+      "BRPE",
+      "TRHE"
+    ],
+    "history": [
+      {
+        "year": 2010,
+        "birds": 1182,
+        "nests": 681,
+        "species_count": 4
+      },
+      {
+        "year": 2011,
+        "birds": 4166,
+        "nests": 2406,
+        "species_count": 12
+      },
+      {
+        "year": 2012,
+        "birds": 4086,
+        "nests": 2260,
+        "species_count": 8
+      },
+      {
+        "year": 2013,
+        "birds": 353,
+        "nests": 115,
+        "species_count": 3
+      },
+      {
+        "year": 2015,
+        "birds": 437,
+        "nests": 153,
+        "species_count": 2
+      }
+    ]
+  },
+  {
+    "name": "Isle au Pitre",
+    "lat": 30.1526,
+    "lng": -89.19679999999998,
+    "sample_image": "avian_monitoring/high_resolution_photos/2010/Biloxi North/Isle au Pitre/27June10Camera1-Card1-0629.jpg",
+    "top_species": [
+      "SATE",
+      "LAGU",
+      "BRPE"
+    ],
+    "history": [
+      {
+        "year": 2010,
+        "birds": 180,
+        "nests": 117,
+        "species_count": 9
+      },
+      {
+        "year": 2011,
+        "birds": 353,
+        "nests": 223,
+        "species_count": 4
+      },
+      {
+        "year": 2012,
+        "birds": 765,
+        "nests": 215,
+        "species_count": 6
+      },
+      {
+        "year": 2013,
+        "birds": 2160,
+        "nests": 1522,
+        "species_count": 7
+      },
+      {
+        "year": 2015,
+        "birds": 188,
+        "nests": 53,
+        "species_count": 7
+      },
+      {
+        "year": 2018,
+        "birds": 4475,
+        "nests": 3473,
+        "species_count": 5
+      },
+      {
+        "year": 2021,
+        "birds": 3924,
+        "nests": 2621,
+        "species_count": 10
+      }
+    ]
+  },
+  {
+    "name": "Fricot Bayou Island",
+    "lat": 29.3459,
+    "lng": -90.0342,
+    "sample_image": "avian_monitoring/high_resolution_photos/2010/Barataria Bay/Fricot Bayou Island/27June10Camera2-Card1-0263.jpg",
+    "top_species": [
+      "FOTE",
+      "UNWA"
+    ],
+    "history": [
+      {
+        "year": 2010,
+        "birds": 171,
+        "nests": 124,
+        "species_count": 2
+      },
+      {
+        "year": 2011,
+        "birds": 994,
+        "nests": 887,
+        "species_count": 1
+      },
+      {
+        "year": 2012,
+        "birds": 447,
+        "nests": 395,
+        "species_count": 1
+      },
+      {
+        "year": 2013,
+        "birds": 419,
+        "nests": 363,
+        "species_count": 1
+      },
+      {
+        "year": 2018,
+        "birds": 353,
+        "nests": 274,
+        "species_count": 1
+      }
+    ]
+  },
+  {
+    "name": "Brush Island",
+    "lat": 30.034,
+    "lng": -89.1863,
+    "sample_image": "avian_monitoring/high_resolution_photos/2010/Biloxi North/Brush Island/18May10Camera1-Card1-1048.jpg",
+    "top_species": [
+      "SATE",
+      "LAGU",
+      "ROYT"
+    ],
+    "history": [
+      {
+        "year": 2010,
+        "birds": 6944,
+        "nests": 5671,
+        "species_count": 5
+      },
+      {
+        "year": 2011,
+        "birds": 8026,
+        "nests": 4990,
+        "species_count": 10
+      },
+      {
+        "year": 2012,
+        "birds": 1808,
+        "nests": 948,
+        "species_count": 10
+      },
+      {
+        "year": 2013,
+        "birds": 5220,
+        "nests": 4693,
+        "species_count": 7
+      },
+      {
+        "year": 2015,
+        "birds": 938,
+        "nests": 434,
+        "species_count": 6
+      },
+      {
+        "year": 2018,
+        "birds": 499,
+        "nests": 176,
+        "species_count": 5
+      },
+      {
+        "year": 2021,
+        "birds": 805,
+        "nests": 382,
+        "species_count": 5
+      }
+    ]
+  },
+  {
+    "name": "Belle Pass East",
+    "lat": 29.0901,
+    "lng": -90.2219,
+    "sample_image": "avian_monitoring/high_resolution_photos/2010/Barataria Bay/Belle Pass East/08May10Camera1-Card2-0124.jpg",
+    "top_species": [
+      "GREG",
+      "SNEG",
+      "TRHE"
+    ],
+    "history": [
+      {
+        "year": 2010,
+        "birds": 3817,
+        "nests": 1913,
+        "species_count": 11
+      },
+      {
+        "year": 2011,
+        "birds": 1330,
+        "nests": 1137,
+        "species_count": 7
+      },
+      {
+        "year": 2012,
+        "birds": 1392,
+        "nests": 1269,
+        "species_count": 6
+      },
+      {
+        "year": 2013,
+        "birds": 1813,
+        "nests": 1424,
+        "species_count": 11
+      },
+      {
+        "year": 2015,
+        "birds": 1711,
+        "nests": 1824,
+        "species_count": 8
+      },
+      {
+        "year": 2018,
+        "birds": 727,
+        "nests": 593,
+        "species_count": 7
+      },
+      {
+        "year": 2021,
+        "birds": 93,
+        "nests": 124,
+        "species_count": 3
+      }
+    ]
+  },
+  {
+    "name": "Burrwood Bayou South",
+    "lat": 28.9395,
+    "lng": -89.39369999999998,
+    "sample_image": "avian_monitoring/high_resolution_photos/2010/Birdsfoot West/Burrwood Bayou South/08May10Camera1-Card1-0551.jpg",
+    "top_species": [
+      "UNTE",
+      "LAGU",
+      "ROYT"
+    ],
+    "history": [
+      {
+        "year": 2010,
+        "birds": 293,
+        "nests": 0,
+        "species_count": 4
+      }
+    ]
+  },
+  {
+    "name": "Burrwood Bayou North",
+    "lat": 28.972,
+    "lng": -89.34749999999998,
+    "sample_image": "avian_monitoring/high_resolution_photos/2010/Birdsfoot West/Burrwood Bayou North/08May10Camera1-Card1-0559.jpg",
+    "top_species": [
+      "UNTE",
+      "LAGU",
+      "BLTE"
+    ],
+    "history": [
+      {
+        "year": 2010,
+        "birds": 241,
+        "nests": 0,
+        "species_count": 4
+      }
+    ]
+  },
+  {
+    "name": "Barataria Bay 10",
+    "lat": 29.1181,
+    "lng": -90.165,
+    "sample_image": "avian_monitoring/high_resolution_photos/2010/Barataria Bay/Barataria Bay 10/08May10Camera1-Card2-0088.jpg",
+    "top_species": [
+      "LAGU",
+      "SATE",
+      "ROYT"
+    ],
+    "history": [
+      {
+        "year": 2010,
+        "birds": 1350,
+        "nests": 0,
+        "species_count": 7
+      }
+    ]
+  },
+  {
+    "name": "Terrebonne Bay 2",
+    "lat": 29.1992,
+    "lng": -90.4484,
+    "sample_image": "avian_monitoring/high_resolution_photos/2010/Terrebonne Bay/Terrebonne Bay 2/17May10Camera1-Card1-0237.jpg",
+    "top_species": [
+      "SATE",
+      "ROYT",
+      "BRPE"
+    ],
+    "history": [
+      {
+        "year": 2010,
+        "birds": 50,
+        "nests": 0,
+        "species_count": 3
+      }
+    ]
+  },
+  {
+    "name": "Terrebonne Bay 3",
+    "lat": 29.249,
+    "lng": -90.396,
+    "sample_image": "avian_monitoring/high_resolution_photos/2010/Terrebonne Bay/Terrebonne Bay 3/17May10Camera1-Card1-0241.jpg",
+    "top_species": [
+      "UNTE",
+      "LAGU"
+    ],
+    "history": [
+      {
+        "year": 2010,
+        "birds": 91,
+        "nests": 0,
+        "species_count": 2
+      }
+    ]
+  },
+  {
+    "name": "Terrebonne Bay 4",
+    "lat": 29.2164,
+    "lng": -90.354,
+    "sample_image": "avian_monitoring/high_resolution_photos/2010/Terrebonne Bay/Terrebonne Bay 4/17May10Camera1-Card1-0249.jpg",
+    "top_species": [
+      "UNTE",
+      "BRPE"
+    ],
+    "history": [
+      {
+        "year": 2010,
+        "birds": 135,
+        "nests": 0,
+        "species_count": 2
+      }
+    ]
+  },
+  {
+    "name": "Terrebonne Bay 5",
+    "lat": 29.2029,
+    "lng": -90.3525,
+    "sample_image": "avian_monitoring/high_resolution_photos/2010/Terrebonne Bay/Terrebonne Bay 5/17May10Camera1-Card1-0245.jpg",
+    "top_species": [
+      "BRPE"
+    ],
+    "history": [
+      {
+        "year": 2010,
+        "birds": 51,
+        "nests": 0,
+        "species_count": 1
+      }
+    ]
+  },
+  {
+    "name": "Terrebonne Bay 7",
+    "lat": 29.06,
+    "lng": -90.4465,
+    "sample_image": "avian_monitoring/high_resolution_photos/2010/Terrebonne Bay/Terrebonne Bay 7/17May10Camera1-Card1-0301.jpg",
+    "top_species": [
+      "UNTE",
+      "BRPE",
+      "LAGU"
+    ],
+    "history": [
+      {
+        "year": 2010,
+        "birds": 672,
+        "nests": 0,
+        "species_count": 5
+      }
+    ]
+  },
+  {
+    "name": "Barataria Bay 9",
+    "lat": 29.1376,
+    "lng": -90.1323,
+    "sample_image": "avian_monitoring/high_resolution_photos/2010/Barataria Bay/Barataria Bay 9/08May10Camera1-Card2-0096.jpg",
+    "top_species": [
+      "LAGU",
+      "ROYT",
+      "SATE"
+    ],
+    "history": [
+      {
+        "year": 2010,
+        "birds": 593,
+        "nests": 0,
+        "species_count": 6
+      }
+    ]
+  },
+  {
+    "name": "Barataria Bay 6",
+    "lat": 29.301332,
+    "lng": -90.04627399999998,
+    "sample_image": "avian_monitoring/high_resolution_photos/2011/Barataria Bay/Barataria Bay 6/17May11Camera1-Card2-0756.jpg",
+    "top_species": [
+      "FOTE"
+    ],
+    "history": [
+      {
+        "year": 2011,
+        "birds": 272,
+        "nests": 194,
+        "species_count": 1
+      }
+    ]
+  },
+  {
+    "name": "Barataria Bay 5 AB",
+    "lat": 29.312443,
+    "lng": -90.038936,
+    "sample_image": "avian_monitoring/high_resolution_photos/2011/Barataria Bay/Barataria Bay 5 AB/17May11Camera1-Card3-0005.jpg",
+    "top_species": [
+      "FOTE"
+    ],
+    "history": [
+      {
+        "year": 2011,
+        "birds": 159,
+        "nests": 144,
+        "species_count": 1
+      },
+      {
+        "year": 2013,
+        "birds": 319,
+        "nests": 175,
+        "species_count": 1
+      },
+      {
+        "year": 2018,
+        "birds": 641,
+        "nests": 503,
+        "species_count": 1
+      }
+    ]
+  },
+  {
+    "name": "Biloxi North 35",
+    "lat": 29.951,
+    "lng": -89.253,
+    "sample_image": "avian_monitoring/high_resolution_photos/2012/Biloxi North/Biloxi North 35/28May12Camera2-Card2-0008.jpg",
+    "top_species": [
+      "LAGU",
+      "WHIB",
+      "BLSK"
+    ],
+    "history": [
+      {
+        "year": 2011,
+        "birds": 206,
+        "nests": 125,
+        "species_count": 10
+      },
+      {
+        "year": 2012,
+        "birds": 391,
+        "nests": 362,
+        "species_count": 9
+      },
+      {
+        "year": 2013,
+        "birds": 104,
+        "nests": 95,
+        "species_count": 1
+      },
+      {
+        "year": 2015,
+        "birds": 206,
+        "nests": 82,
+        "species_count": 10
+      },
+      {
+        "year": 2018,
+        "birds": 214,
+        "nests": 45,
+        "species_count": 2
+      },
+      {
+        "year": 2021,
+        "birds": 1648,
+        "nests": 1425,
+        "species_count": 9
+      }
+    ]
+  },
+  {
+    "name": "Shell Island East A",
+    "lat": 29.2701,
+    "lng": -89.6131,
+    "sample_image": "avian_monitoring/high_resolution_photos/2011/Barataria Bay/Shell Island East A/17June11Camera1-Card6-0314.jpg",
+    "top_species": [
+      "SATE",
+      "ROYT",
+      "BLSK"
+    ],
+    "history": [
+      {
+        "year": 2011,
+        "birds": 11222,
+        "nests": 10181,
+        "species_count": 5
+      }
+    ]
+  },
+  {
+    "name": "Shell Island East B",
+    "lat": 29.2786,
+    "lng": -89.6269,
+    "sample_image": "avian_monitoring/high_resolution_photos/2011/Barataria Bay/Shell Island East B/17June11Camera1-Card6-0471.jpg",
+    "top_species": [
+      "BLSK",
+      "GBTE"
+    ],
+    "history": [
+      {
+        "year": 2011,
+        "birds": 1084,
+        "nests": 644,
+        "species_count": 2
+      }
+    ]
+  },
+  {
+    "name": "Barataria Bay 7",
+    "lat": 29.297676,
+    "lng": -90.0553,
+    "sample_image": "avian_monitoring/high_resolution_photos/2011/Barataria Bay/Barataria Bay 7/17May11Camera1-Card2-0749.jpg",
+    "top_species": [
+      "FOTE",
+      "LAGU",
+      "BRPE"
+    ],
+    "history": [
+      {
+        "year": 2011,
+        "birds": 214,
+        "nests": 160,
+        "species_count": 2
+      },
+      {
+        "year": 2013,
+        "birds": 15,
+        "nests": 1,
+        "species_count": 2
+      }
+    ]
+  },
+  {
+    "name": "New Harbor Island 3",
+    "lat": 29.8542,
+    "lng": -88.8634,
+    "sample_image": "avian_monitoring/high_resolution_photos/2012/Breton-Chandeleur Islands/New Harbor Island 3/29May12Camera2-Card1-0568.jpg",
+    "top_species": [
+      "BRPE",
+      "LAGU",
+      "MAFR"
+    ],
+    "history": [
+      {
+        "year": 2011,
+        "birds": 2678,
+        "nests": 983,
+        "species_count": 15
+      },
+      {
+        "year": 2012,
+        "birds": 3305,
+        "nests": 1573,
+        "species_count": 5
+      },
+      {
+        "year": 2013,
+        "birds": 3192,
+        "nests": 2031,
+        "species_count": 4
+      },
+      {
+        "year": 2015,
+        "birds": 4874,
+        "nests": 3025,
+        "species_count": 8
+      },
+      {
+        "year": 2018,
+        "birds": 5302,
+        "nests": 4246,
+        "species_count": 4
+      },
+      {
+        "year": 2021,
+        "birds": 7275,
+        "nests": 4693,
+        "species_count": 4
+      }
+    ]
+  },
+  {
+    "name": "Barataria Bay 3",
+    "lat": 29.3427,
+    "lng": -89.8023,
+    "sample_image": "avian_monitoring/high_resolution_photos/2012/Barataria Bay/Barataria Bay 3/27May12Camera1-Card2-0871.jpg",
+    "top_species": [
+      "BRPE",
+      "LAGU",
+      "GREG"
+    ],
+    "history": [
+      {
+        "year": 2012,
+        "birds": 897,
+        "nests": 256,
+        "species_count": 9
+      }
+    ]
+  },
+  {
+    "name": "Chandeleur South D",
+    "lat": 29.770378,
+    "lng": -88.882942,
+    "sample_image": "avian_monitoring/high_resolution_photos/2011/Breton-Chandeleur Islands/Chandeleur South D/15June11Camera1-Card4-0261.jpg",
+    "top_species": [
+      "SATE",
+      "ROYT",
+      "BLSK"
+    ],
+    "history": [
+      {
+        "year": 2011,
+        "birds": 13216,
+        "nests": 12433,
+        "species_count": 6
+      },
+      {
+        "year": 2012,
+        "birds": 3582,
+        "nests": 3383,
+        "species_count": 6
+      },
+      {
+        "year": 2015,
+        "birds": 130,
+        "nests": 80,
+        "species_count": 2
+      },
+      {
+        "year": 2018,
+        "birds": 3570,
+        "nests": 2763,
+        "species_count": 6
+      },
+      {
+        "year": 2021,
+        "birds": 5102,
+        "nests": 4162,
+        "species_count": 6
+      }
+    ]
+  },
+  {
+    "name": "Chandeleur North I",
+    "lat": 29.845356,
+    "lng": -88.83965499999998,
+    "sample_image": "avian_monitoring/high_resolution_photos/2012/Breton-Chandeleur Islands/Chandeleur North I/19June12Camera1-Card4-0493.jpg",
+    "top_species": [
+      "BLSK",
+      "GBTE",
+      "LAGU"
+    ],
+    "history": [
+      {
+        "year": 2012,
+        "birds": 145,
+        "nests": 79,
+        "species_count": 3
+      },
+      {
+        "year": 2018,
+        "birds": 178,
+        "nests": 87,
+        "species_count": 1
+      }
+    ]
+  },
+  {
+    "name": "Chandeleur North F",
+    "lat": 29.881806,
+    "lng": -88.828345,
+    "sample_image": "avian_monitoring/high_resolution_photos/2012/Breton-Chandeleur Islands/Chandeleur North F/19June12Camera2-Card5-0180.jpg",
+    "top_species": [
+      "SATE",
+      "ROYT",
+      "LAGU"
+    ],
+    "history": [
+      {
+        "year": 2011,
+        "birds": 33398,
+        "nests": 28872,
+        "species_count": 6
+      },
+      {
+        "year": 2012,
+        "birds": 17,
+        "nests": 9,
+        "species_count": 1
+      },
+      {
+        "year": 2013,
+        "birds": 8986,
+        "nests": 8334,
+        "species_count": 6
+      },
+      {
+        "year": 2015,
+        "birds": 618,
+        "nests": 600,
+        "species_count": 5
+      },
+      {
+        "year": 2018,
+        "birds": 7133,
+        "nests": 6845,
+        "species_count": 6
+      },
+      {
+        "year": 2021,
+        "birds": 398,
+        "nests": 308,
+        "species_count": 1
+      }
+    ]
+  },
+  {
+    "name": "Chandeleur North G",
+    "lat": 29.865132,
+    "lng": -88.832617,
+    "sample_image": "avian_monitoring/high_resolution_photos/2012/Breton-Chandeleur Islands/Chandeleur North G/19June12Camera1-Card4-0528.jpg",
+    "top_species": [
+      "ROYT",
+      "SATE",
+      "BLSK"
+    ],
+    "history": [
+      {
+        "year": 2011,
+        "birds": 74,
+        "nests": 59,
+        "species_count": 3
+      },
+      {
+        "year": 2012,
+        "birds": 10894,
+        "nests": 10229,
+        "species_count": 5
+      },
+      {
+        "year": 2013,
+        "birds": 477,
+        "nests": 373,
+        "species_count": 5
+      },
+      {
+        "year": 2015,
+        "birds": 146,
+        "nests": 101,
+        "species_count": 3
+      },
+      {
+        "year": 2018,
+        "birds": 317,
+        "nests": 209,
+        "species_count": 3
+      },
+      {
+        "year": 2021,
+        "birds": 32,
+        "nests": 26,
+        "species_count": 2
+      }
+    ]
+  },
+  {
+    "name": "Avocet Island",
+    "lat": 29.407242,
+    "lng": -91.363845,
+    "sample_image": "avian_monitoring/high_resolution_photos/2013/Atchafalaya Bay/Avocet Island/19June13Camera1-Card4-0815.jpg",
+    "top_species": [
+      "ROYT",
+      "SATE",
+      "BLSK"
+    ],
+    "history": [
+      {
+        "year": 2013,
+        "birds": 1876,
+        "nests": 1652,
+        "species_count": 4
+      },
+      {
+        "year": 2015,
+        "birds": 193,
+        "nests": 192,
+        "species_count": 2
+      }
+    ]
+  },
+  {
+    "name": "Barataria Bay 13",
+    "lat": 29.321881,
+    "lng": -89.871357,
+    "sample_image": "avian_monitoring/high_resolution_photos/2013/Barataria Bay/Barataria Bay 13/23May13Camera2-Card1-1277.jpg",
+    "top_species": [
+      "FOTE",
+      "TRHE",
+      "GREG"
+    ],
+    "history": [
+      {
+        "year": 2011,
+        "birds": 39,
+        "nests": 39,
+        "species_count": 1
+      },
+      {
+        "year": 2013,
+        "birds": 239,
+        "nests": 207,
+        "species_count": 4
+      },
+      {
+        "year": 2015,
+        "birds": 13,
+        "nests": 16,
+        "species_count": 1
+      }
+    ]
+  },
+  {
+    "name": "Terrebonne Bay 8",
+    "lat": 29.1415,
+    "lng": -90.64927,
+    "sample_image": "avian_monitoring/high_resolution_photos/2013/Terrebonne Bay/Terrebonne Bay 8/23May13Camera1-Card1-0585.jpg",
+    "top_species": [
+      "SATE",
+      "ROYT",
+      "CATE"
+    ],
+    "history": [
+      {
+        "year": 2013,
+        "birds": 1477,
+        "nests": 1289,
+        "species_count": 6
+      }
+    ]
+  },
+  {
+    "name": "Little Bird Island",
+    "lat": 29.13387,
+    "lng": -90.67869,
+    "sample_image": "avian_monitoring/high_resolution_photos/2013/Terrebonne Bay/Little Bird Island/23May13Camera1-Card1-0562.jpg",
+    "top_species": [
+      "AMOY"
+    ],
+    "history": [
+      {
+        "year": 2013,
+        "birds": 3,
+        "nests": 2,
+        "species_count": 1
+      }
+    ]
+  },
+  {
+    "name": "Birdsfoot West 5",
+    "lat": 29.223319,
+    "lng": -89.299464,
+    "sample_image": "avian_monitoring/high_resolution_photos/2013/Birdsfoot West/Birdsfoot West 5/23May13Camera1-Card1-1381.jpg",
+    "top_species": [
+      "GREG",
+      "ANHI",
+      "GBHE"
+    ],
+    "history": [
+      {
+        "year": 2013,
+        "birds": 34,
+        "nests": 34,
+        "species_count": 1
+      },
+      {
+        "year": 2015,
+        "birds": 68,
+        "nests": 42,
+        "species_count": 3
+      },
+      {
+        "year": 2018,
+        "birds": 125,
+        "nests": 55,
+        "species_count": 2
+      }
+    ]
+  },
+  {
+    "name": "Chandeleur North H",
+    "lat": 29.85238,
+    "lng": -88.83663799999998,
+    "sample_image": "avian_monitoring/high_resolution_photos/2011/Breton-Chandeleur Islands/Chandeleur North H/19May11Camera1-Card7-0213.jpg",
+    "top_species": [
+      "BLSK",
+      "CATE",
+      "LAGU"
+    ],
+    "history": [
+      {
+        "year": 2011,
+        "birds": 643,
+        "nests": 305,
+        "species_count": 2
+      },
+      {
+        "year": 2012,
+        "birds": 92,
+        "nests": 81,
+        "species_count": 2
+      },
+      {
+        "year": 2015,
+        "birds": 137,
+        "nests": 125,
+        "species_count": 2
+      },
+      {
+        "year": 2018,
+        "birds": 45,
+        "nests": 27,
+        "species_count": 2
+      },
+      {
+        "year": 2021,
+        "birds": 399,
+        "nests": 295,
+        "species_count": 6
+      }
+    ]
+  },
+  {
+    "name": "Chandeleur North K",
+    "lat": 29.8318,
+    "lng": -88.8435,
+    "sample_image": "avian_monitoring/high_resolution_photos/2012/Breton-Chandeleur Islands/Chandeleur North K/29May12Camera1-Card3-0650.jpg",
+    "top_species": [
+      "BLSK",
+      "LAGU"
+    ],
+    "history": [
+      {
+        "year": 2012,
+        "birds": 21,
+        "nests": 10,
+        "species_count": 2
+      }
+    ]
+  },
+  {
+    "name": "Chandeleur North J",
+    "lat": 29.8477,
+    "lng": -88.83589999999998,
+    "sample_image": "avian_monitoring/high_resolution_photos/2012/Breton-Chandeleur Islands/Chandeleur North J/29May12Camera1-Card3-0662.jpg",
+    "top_species": [
+      "BLSK",
+      "GBTE"
+    ],
+    "history": [
+      {
+        "year": 2012,
+        "birds": 38,
+        "nests": 36,
+        "species_count": 2
+      }
+    ]
+  },
+  {
+    "name": "Biloxi South 10 D",
+    "lat": 29.52792,
+    "lng": -89.54504,
+    "sample_image": "avian_monitoring/high_resolution_photos/2012/Biloxi South/Biloxi South 10 D/28May12Camera1-Card1-0145.jpg",
+    "top_species": [
+      "LAGU",
+      "BRPE",
+      "FOTE"
+    ],
+    "history": [
+      {
+        "year": 2011,
+        "birds": 316,
+        "nests": 186,
+        "species_count": 5
+      },
+      {
+        "year": 2012,
+        "birds": 1812,
+        "nests": 974,
+        "species_count": 5
+      },
+      {
+        "year": 2013,
+        "birds": 1211,
+        "nests": 614,
+        "species_count": 3
+      },
+      {
+        "year": 2015,
+        "birds": 815,
+        "nests": 384,
+        "species_count": 6
+      },
+      {
+        "year": 2018,
+        "birds": 2868,
+        "nests": 1697,
+        "species_count": 8
+      },
+      {
+        "year": 2021,
+        "birds": 88,
+        "nests": 45,
+        "species_count": 2
+      }
+    ]
+  },
+  {
+    "name": "Hell Pass Coast",
+    "lat": 29.92569,
+    "lng": -89.31116,
+    "sample_image": "avian_monitoring/high_resolution_photos/2012/Biloxi North/Hell Pass Coast/28May12Camera2-Card1-0663.jpg",
+    "top_species": [
+      "LAGU",
+      "TRHE",
+      "SNEG"
+    ],
+    "history": [
+      {
+        "year": 2011,
+        "birds": 1478,
+        "nests": 1183,
+        "species_count": 8
+      },
+      {
+        "year": 2012,
+        "birds": 1391,
+        "nests": 939,
+        "species_count": 4
+      },
+      {
+        "year": 2013,
+        "birds": 2092,
+        "nests": 1751,
+        "species_count": 8
+      }
+    ]
+  },
+  {
+    "name": "Biloxi South 10 B",
+    "lat": 29.5289,
+    "lng": -89.55068,
+    "sample_image": "avian_monitoring/high_resolution_photos/2011/Biloxi South/Biloxi South 10 B/17June11Camera1-Card5-0290.jpg",
+    "top_species": [
+      "LAGU",
+      "BRPE",
+      "WHIB"
+    ],
+    "history": [
+      {
+        "year": 2011,
+        "birds": 370,
+        "nests": 212,
+        "species_count": 5
+      },
+      {
+        "year": 2012,
+        "birds": 1524,
+        "nests": 876,
+        "species_count": 5
+      },
+      {
+        "year": 2013,
+        "birds": 1049,
+        "nests": 548,
+        "species_count": 5
+      },
+      {
+        "year": 2015,
+        "birds": 1017,
+        "nests": 782,
+        "species_count": 9
+      },
+      {
+        "year": 2021,
+        "birds": 379,
+        "nests": 234,
+        "species_count": 6
+      }
+    ]
+  },
+  {
+    "name": "Belle Pass West",
+    "lat": 29.0991,
+    "lng": -90.262,
+    "sample_image": "avian_monitoring/high_resolution_photos/2011/Terrebonne Bay/Belle Pass West/18June11Camera2-Card6-0538.jpg",
+    "top_species": [
+      "BLSK"
+    ],
+    "history": [
+      {
+        "year": 2011,
+        "birds": 779,
+        "nests": 444,
+        "species_count": 1
+      }
+    ]
+  },
+  {
+    "name": "Birdsfoot West 3",
+    "lat": 29.2122,
+    "lng": -89.3914,
+    "sample_image": "avian_monitoring/high_resolution_photos/2011/Birdsfoot West/Birdsfoot West 3/18May11Camera2-Card4-0323.jpg",
+    "top_species": [
+      "WHIB",
+      "SNEG",
+      "LBHE"
+    ],
+    "history": [
+      {
+        "year": 2011,
+        "birds": 728,
+        "nests": 563,
+        "species_count": 7
+      },
+      {
+        "year": 2013,
+        "birds": 304,
+        "nests": 189,
+        "species_count": 5
+      },
+      {
+        "year": 2015,
+        "birds": 342,
+        "nests": 300,
+        "species_count": 5
+      }
+    ]
+  },
+  {
+    "name": "Birdsfoot East 3",
+    "lat": 29.3725,
+    "lng": -89.29989999999998,
+    "sample_image": "avian_monitoring/high_resolution_photos/2011/Birdsfoot East/Birdsfoot East 3/17May11Camera2-Card4-0316.jpg",
+    "top_species": [
+      "BLSK",
+      "GBTE",
+      "CATE"
+    ],
+    "history": [
+      {
+        "year": 2011,
+        "birds": 4,
+        "nests": 3,
+        "species_count": 1
+      },
+      {
+        "year": 2012,
+        "birds": 7359,
+        "nests": 4042,
+        "species_count": 10
+      },
+      {
+        "year": 2013,
+        "birds": 696,
+        "nests": 548,
+        "species_count": 2
+      },
+      {
+        "year": 2015,
+        "birds": 106,
+        "nests": 0,
+        "species_count": 6
+      }
+    ]
+  },
+  {
+    "name": "Biloxi North 40",
+    "lat": 30.0434,
+    "lng": -89.3375,
+    "sample_image": "avian_monitoring/high_resolution_photos/2011/Biloxi North/Biloxi North 40/19May11Camera1-Card8-0005.jpg",
+    "top_species": [
+      "LAGU",
+      "FOTE",
+      "SNEG"
+    ],
+    "history": [
+      {
+        "year": 2011,
+        "birds": 81,
+        "nests": 60,
+        "species_count": 1
+      },
+      {
+        "year": 2013,
+        "birds": 16,
+        "nests": 8,
+        "species_count": 1
+      },
+      {
+        "year": 2015,
+        "birds": 37,
+        "nests": 15,
+        "species_count": 1
+      },
+      {
+        "year": 2021,
+        "birds": 814,
+        "nests": 722,
+        "species_count": 5
+      }
+    ]
+  },
+  {
+    "name": "Biloxi North 36",
+    "lat": 30.0497,
+    "lng": -89.30379999999998,
+    "sample_image": "avian_monitoring/high_resolution_photos/2011/Biloxi North/Biloxi North 36/19May11Camera1-Card8-0186.jpg",
+    "top_species": [
+      "LAGU",
+      "WHIB",
+      "TRHE"
+    ],
+    "history": [
+      {
+        "year": 2011,
+        "birds": 385,
+        "nests": 395,
+        "species_count": 9
+      },
+      {
+        "year": 2015,
+        "birds": 53,
+        "nests": 29,
+        "species_count": 3
+      },
+      {
+        "year": 2018,
+        "birds": 130,
+        "nests": 122,
+        "species_count": 5
+      },
+      {
+        "year": 2021,
+        "birds": 567,
+        "nests": 418,
+        "species_count": 6
+      }
+    ]
+  },
+  {
+    "name": "Biloxi North 37",
+    "lat": 29.9141,
+    "lng": -89.3257,
+    "sample_image": "avian_monitoring/high_resolution_photos/2011/Biloxi North/Biloxi North 37/14June11Camera2-Card2-0556.jpg",
+    "top_species": [
+      "LAGU",
+      "FOTE",
+      "TRHE"
+    ],
+    "history": [
+      {
+        "year": 2011,
+        "birds": 433,
+        "nests": 345,
+        "species_count": 2
+      },
+      {
+        "year": 2015,
+        "birds": 359,
+        "nests": 302,
+        "species_count": 2
+      },
+      {
+        "year": 2018,
+        "birds": 544,
+        "nests": 370,
+        "species_count": 2
+      },
+      {
+        "year": 2021,
+        "birds": 233,
+        "nests": 178,
+        "species_count": 2
+      }
+    ]
+  },
+  {
+    "name": "Biloxi North 42",
+    "lat": 29.948796,
+    "lng": -89.36322699999998,
+    "sample_image": "avian_monitoring/high_resolution_photos/2012/Biloxi North/Biloxi North 42/28May12Camera1-Card2-0423.jpg",
+    "top_species": [
+      "FOTE"
+    ],
+    "history": [
+      {
+        "year": 2012,
+        "birds": 188,
+        "nests": 185,
+        "species_count": 1
+      },
+      {
+        "year": 2015,
+        "birds": 79,
+        "nests": 73,
+        "species_count": 1
+      },
+      {
+        "year": 2018,
+        "birds": 25,
+        "nests": 18,
+        "species_count": 1
+      }
+    ]
+  },
+  {
+    "name": "Birdsfoot West 4",
+    "lat": 29.179677,
+    "lng": -89.29314599999998,
+    "sample_image": "avian_monitoring/high_resolution_photos/2013/Birdsfoot West/Birdsfoot West 4/19June13Camera1-Card3-0765.jpg",
+    "top_species": [
+      "BLSK",
+      "GBTE",
+      "CATE"
+    ],
+    "history": [
+      {
+        "year": 2013,
+        "birds": 1999,
+        "nests": 1651,
+        "species_count": 7
+      },
+      {
+        "year": 2015,
+        "birds": 481,
+        "nests": 135,
+        "species_count": 4
+      }
+    ]
+  },
+  {
+    "name": "Birdsfoot East 4 A",
+    "lat": 28.974693,
+    "lng": -89.363755,
+    "sample_image": "avian_monitoring/high_resolution_photos/2013/Birdsfoot East/Birdsfoot East 4 A/19June13Camera2-Card4-0143.jpg",
+    "top_species": [
+      "WHIB",
+      "GREG",
+      "SNEG"
+    ],
+    "history": [
+      {
+        "year": 2013,
+        "birds": 504,
+        "nests": 446,
+        "species_count": 5
+      }
+    ]
+  },
+  {
+    "name": "Little Mud Grass Island",
+    "lat": 29.9508,
+    "lng": -89.3225,
+    "sample_image": "avian_monitoring/high_resolution_photos/2013/Biloxi North/Little Mud Grass Island/18June13Camera1-Card2-1411.jpg",
+    "top_species": [
+      "LAGU",
+      "SNEG",
+      "GREG"
+    ],
+    "history": [
+      {
+        "year": 2013,
+        "birds": 87,
+        "nests": 41,
+        "species_count": 4
+      },
+      {
+        "year": 2015,
+        "birds": 210,
+        "nests": 171,
+        "species_count": 8
+      },
+      {
+        "year": 2018,
+        "birds": 468,
+        "nests": 365,
+        "species_count": 6
+      }
+    ]
+  },
+  {
+    "name": "Comfort Island",
+    "lat": 29.825987,
+    "lng": -89.254186,
+    "sample_image": "avian_monitoring/high_resolution_photos/2013/Biloxi North/Comfort Island/18June13Camera2-Card2-1247.jpg",
+    "top_species": [
+      "FOTE",
+      "BLSK",
+      "LAGU"
+    ],
+    "history": [
+      {
+        "year": 2013,
+        "birds": 122,
+        "nests": 28,
+        "species_count": 2
+      },
+      {
+        "year": 2015,
+        "birds": 48,
+        "nests": 45,
+        "species_count": 1
+      },
+      {
+        "year": 2018,
+        "birds": 79,
+        "nests": 60,
+        "species_count": 5
+      },
+      {
+        "year": 2021,
+        "birds": 181,
+        "nests": 69,
+        "species_count": 6
+      }
+    ]
+  },
+  {
+    "name": "Biloxi North 38",
+    "lat": 30.00238,
+    "lng": -89.21496999999998,
+    "sample_image": "avian_monitoring/high_resolution_photos/2013/Biloxi North/Biloxi North 38/18June13Camera1-Card2-0029.jpg",
+    "top_species": [
+      "LAGU",
+      "BRPE",
+      "BLSK"
+    ],
+    "history": [
+      {
+        "year": 2013,
+        "birds": 133,
+        "nests": 74,
+        "species_count": 5
+      },
+      {
+        "year": 2015,
+        "birds": 1206,
+        "nests": 538,
+        "species_count": 14
+      },
+      {
+        "year": 2018,
+        "birds": 5345,
+        "nests": 3856,
+        "species_count": 10
+      },
+      {
+        "year": 2021,
+        "birds": 7828,
+        "nests": 5585,
+        "species_count": 10
+      }
+    ]
+  },
+  {
+    "name": "Terrebonne Bay 1",
+    "lat": 29.21025,
+    "lng": -90.57022,
+    "sample_image": "avian_monitoring/high_resolution_photos/2013/Terrebonne Bay/Terrebonne Bay 1/19June13Camera1-Card5-0069.jpg",
+    "top_species": [
+      "ROYT",
+      "SATE",
+      "LAGU"
+    ],
+    "history": [
+      {
+        "year": 2013,
+        "birds": 9898,
+        "nests": 8656,
+        "species_count": 7
+      },
+      {
+        "year": 2015,
+        "birds": 1052,
+        "nests": 575,
+        "species_count": 9
+      }
+    ]
+  },
+  {
+    "name": "Biloxi South 14",
+    "lat": 29.659975,
+    "lng": -89.45661699999998,
+    "sample_image": "avian_monitoring/high_resolution_photos/2013/Biloxi South/Biloxi South 14/24May13Camera1-Card2-0528.jpg",
+    "top_species": [
+      "FOTE",
+      "LAGU",
+      "BLSK"
+    ],
+    "history": [
+      {
+        "year": 2012,
+        "birds": 330,
+        "nests": 330,
+        "species_count": 2
+      },
+      {
+        "year": 2013,
+        "birds": 890,
+        "nests": 588,
+        "species_count": 6
+      },
+      {
+        "year": 2015,
+        "birds": 235,
+        "nests": 133,
+        "species_count": 2
+      },
+      {
+        "year": 2018,
+        "birds": 339,
+        "nests": 261,
+        "species_count": 2
+      },
+      {
+        "year": 2021,
+        "birds": 577,
+        "nests": 415,
+        "species_count": 2
+      }
+    ]
+  },
+  {
+    "name": "Biloxi South 15",
+    "lat": 29.5324,
+    "lng": -89.5751,
+    "sample_image": "avian_monitoring/high_resolution_photos/2013/Biloxi South/Biloxi South 15/24May13Camera1-Card2-0275.jpg",
+    "top_species": [
+      "SNEG",
+      "TRHE",
+      "ROSP"
+    ],
+    "history": [
+      {
+        "year": 2013,
+        "birds": 324,
+        "nests": 243,
+        "species_count": 6
+      }
+    ]
+  },
+  {
+    "name": "Bayou Pintou",
+    "lat": 30.128,
+    "lng": -89.224,
+    "sample_image": "avian_monitoring/high_resolution_photos/2013/Biloxi North/Bayou Pintou/19June13Camera2-Card3-0573.jpg",
+    "top_species": [
+      "BLSK",
+      "LAGU",
+      "CATE"
+    ],
+    "history": [
+      {
+        "year": 2013,
+        "birds": 659,
+        "nests": 252,
+        "species_count": 6
+      },
+      {
+        "year": 2015,
+        "birds": 808,
+        "nests": 320,
+        "species_count": 7
+      },
+      {
+        "year": 2018,
+        "birds": 1449,
+        "nests": 806,
+        "species_count": 6
+      },
+      {
+        "year": 2021,
+        "birds": 3911,
+        "nests": 1925,
+        "species_count": 14
+      }
+    ]
+  },
+  {
+    "name": "Biloxi North 3",
+    "lat": 30.0997,
+    "lng": -89.283,
+    "sample_image": "avian_monitoring/high_resolution_photos/2013/Biloxi North/Biloxi North 3/19June13Camera2-Card3-0608.jpg",
+    "top_species": [
+      "BLSK",
+      "LAGU",
+      "GBTE"
+    ],
+    "history": [
+      {
+        "year": 2013,
+        "birds": 369,
+        "nests": 146,
+        "species_count": 7
+      },
+      {
+        "year": 2015,
+        "birds": 446,
+        "nests": 151,
+        "species_count": 4
+      },
+      {
+        "year": 2018,
+        "birds": 559,
+        "nests": 284,
+        "species_count": 13
+      },
+      {
+        "year": 2021,
+        "birds": 315,
+        "nests": 109,
+        "species_count": 8
+      }
+    ]
+  },
+  {
+    "name": "Houma Navigation Canal Island",
+    "lat": 29.19515,
+    "lng": -90.61565,
+    "sample_image": "avian_monitoring/high_resolution_photos/2013/Terrebonne Bay/Houma Navigation Canal Island/23May13Camera1-Card1-0595.jpg",
+    "top_species": [
+      "LAGU",
+      "BRPE",
+      "TRHE"
+    ],
+    "history": [
+      {
+        "year": 2013,
+        "birds": 12631,
+        "nests": 8578,
+        "species_count": 15
+      },
+      {
+        "year": 2015,
+        "birds": 11624,
+        "nests": 8027,
+        "species_count": 19
+      },
+      {
+        "year": 2018,
+        "birds": 17736,
+        "nests": 12742,
+        "species_count": 14
+      },
+      {
+        "year": 2021,
+        "birds": 5787,
+        "nests": 3826,
+        "species_count": 12
+      }
+    ]
+  },
+  {
+    "name": "Barataria Bay 12",
+    "lat": 29.4323,
+    "lng": -90.0147,
+    "sample_image": "avian_monitoring/high_resolution_photos/2013/Barataria Bay/Barataria Bay 12/23May13Camera2-Card1-1002.jpg",
+    "top_species": [
+      "FOTE"
+    ],
+    "history": [
+      {
+        "year": 2013,
+        "birds": 1517,
+        "nests": 952,
+        "species_count": 1
+      },
+      {
+        "year": 2021,
+        "birds": 290,
+        "nests": 232,
+        "species_count": 1
+      }
+    ]
+  },
+  {
+    "name": "Biloxi South 16",
+    "lat": 29.681855,
+    "lng": -89.447643,
+    "sample_image": "avian_monitoring/high_resolution_photos/2011/Biloxi South/Biloxi South 16/18May11Camera1-Card5-799.jpg",
+    "top_species": [
+      "FOTE"
+    ],
+    "history": [
+      {
+        "year": 2011,
+        "birds": 81,
+        "nests": 81,
+        "species_count": 1
+      }
+    ]
+  },
+  {
+    "name": "Biloxi South 17",
+    "lat": 29.714347,
+    "lng": -89.567863,
+    "sample_image": "avian_monitoring/high_resolution_photos/2012/Biloxi South/Biloxi South 17/28May12Camera1-Card1-543.jpg",
+    "top_species": [
+      "FOTE",
+      "TRHE"
+    ],
+    "history": [
+      {
+        "year": 2012,
+        "birds": 69,
+        "nests": 69,
+        "species_count": 1
+      },
+      {
+        "year": 2015,
+        "birds": 32,
+        "nests": 10,
+        "species_count": 2
+      },
+      {
+        "year": 2018,
+        "birds": 42,
+        "nests": 17,
+        "species_count": 1
+      }
+    ]
+  },
+  {
+    "name": "Biloxi North 41",
+    "lat": 29.75089,
+    "lng": -89.44664,
+    "sample_image": "avian_monitoring/high_resolution_photos/2011/Biloxi North/Biloxi North 41/18May11Camera2-Card5-397.jpg",
+    "top_species": [
+      "FOTE"
+    ],
+    "history": [
+      {
+        "year": 2011,
+        "birds": 182,
+        "nests": 182,
+        "species_count": 1
+      },
+      {
+        "year": 2015,
+        "birds": 61,
+        "nests": 51,
+        "species_count": 1
+      }
+    ]
+  },
+  {
+    "name": "Gunn Island",
+    "lat": 29.4136,
+    "lng": -89.29569999999998,
+    "sample_image": "avian_monitoring/high_resolution_photos/2021/Birdsfoot East/Gunn Island/17June21Camera2-Card2-3800.jpg",
+    "top_species": [
+      "SATE",
+      "ROYT",
+      "BLSK"
+    ],
+    "history": [
+      {
+        "year": 2018,
+        "birds": 14130,
+        "nests": 13444,
+        "species_count": 7
+      },
+      {
+        "year": 2021,
+        "birds": 40724,
+        "nests": 37001,
+        "species_count": 9
+      }
+    ]
+  },
+  {
+    "name": "Bay Joyeux Islettes",
+    "lat": 29.288252,
+    "lng": -90.043532,
+    "sample_image": "avian_monitoring/high_resolution_photos/2021/Barataria Bay/Bay Joyeux Islettes/19June21Camera2-Card3-662.jpg",
+    "top_species": [
+      "FOTE"
+    ],
+    "history": [
+      {
+        "year": 2021,
+        "birds": 367,
+        "nests": 307,
+        "species_count": 1
+      }
+    ]
+  },
+  {
+    "name": "Mink Island",
+    "lat": 30.00568,
+    "lng": -89.30034999999998,
+    "sample_image": "avian_monitoring/high_resolution_photos/2021/Biloxi North/Mink Island/17June21Camera1-Card1-9910.jpg",
+    "top_species": [
+      "BLSK",
+      "LAGU",
+      "BRPE"
+    ],
+    "history": [
+      {
+        "year": 2015,
+        "birds": 83,
+        "nests": 21,
+        "species_count": 6
+      },
+      {
+        "year": 2018,
+        "birds": 158,
+        "nests": 94,
+        "species_count": 5
+      },
+      {
+        "year": 2021,
+        "birds": 21,
+        "nests": 5,
+        "species_count": 3
+      }
+    ]
+  },
+  {
+    "name": "Birdsfoot East 4 B",
+    "lat": 28.98179,
+    "lng": -89.362942,
+    "sample_image": "avian_monitoring/high_resolution_photos/2021/Birdsfoot East/Birdsfoot East 4 B/22May21Camera1-Card1-3210.jpg",
+    "top_species": [
+      "GREG",
+      "ROSP",
+      "BCNH"
+    ],
+    "history": [
+      {
+        "year": 2021,
+        "birds": 52,
+        "nests": 67,
+        "species_count": 3
+      }
+    ]
+  },
+  {
+    "name": "Hell Pass Coast A",
+    "lat": 29.93259,
+    "lng": -89.30759999999998,
+    "sample_image": "avian_monitoring/high_resolution_photos/2021/Biloxi North/Hell Pass Coast A/17June21Camera2-Card2-2024.jpg",
+    "top_species": [
+      "LAGU",
+      "BLSK",
+      "TRHE"
+    ],
+    "history": [
+      {
+        "year": 2015,
+        "birds": 379,
+        "nests": 149,
+        "species_count": 10
+      },
+      {
+        "year": 2018,
+        "birds": 249,
+        "nests": 202,
+        "species_count": 7
+      },
+      {
+        "year": 2021,
+        "birds": 964,
+        "nests": 761,
+        "species_count": 6
+      }
+    ]
+  },
+  {
+    "name": "Hell Pass Coast B",
+    "lat": 29.92847,
+    "lng": -89.3079,
+    "sample_image": "avian_monitoring/high_resolution_photos/2021/Biloxi North/Hell Pass Coast B/17June21Camera2-Card2-2310.jpg",
+    "top_species": [
+      "TRHE",
+      "LAGU",
+      "SNEG"
+    ],
+    "history": [
+      {
+        "year": 2015,
+        "birds": 962,
+        "nests": 856,
+        "species_count": 8
+      },
+      {
+        "year": 2018,
+        "birds": 1680,
+        "nests": 1585,
+        "species_count": 6
+      },
+      {
+        "year": 2021,
+        "birds": 1367,
+        "nests": 1180,
+        "species_count": 5
+      }
+    ]
+  },
+  {
+    "name": "Hell Pass Coast C",
+    "lat": 29.92569,
+    "lng": -89.31116,
+    "sample_image": "avian_monitoring/high_resolution_photos/2021/Biloxi North/Hell Pass Coast C/17June21Camera1-Card2-972.jpg",
+    "top_species": [
+      "LAGU",
+      "TRHE",
+      "SNEG"
+    ],
+    "history": [
+      {
+        "year": 2015,
+        "birds": 491,
+        "nests": 363,
+        "species_count": 4
+      },
+      {
+        "year": 2018,
+        "birds": 777,
+        "nests": 685,
+        "species_count": 4
+      },
+      {
+        "year": 2021,
+        "birds": 551,
+        "nests": 433,
+        "species_count": 9
+      }
+    ]
+  },
+  {
+    "name": "Biloxi South 20",
+    "lat": 29.719486,
+    "lng": -89.539958,
+    "sample_image": "avian_monitoring/high_resolution_photos/2021/Biloxi South/Biloxi South 20/17June21Camera1-Card2-1408.jpg",
+    "top_species": [
+      "FOTE",
+      "LAGU"
+    ],
+    "history": [
+      {
+        "year": 2021,
+        "birds": 204,
+        "nests": 139,
+        "species_count": 2
+      }
+    ]
+  },
+  {
+    "name": "Curlew Island",
+    "lat": 29.66636,
+    "lng": -88.96111999999998,
+    "sample_image": "avian_monitoring/high_resolution_photos/2021/Breton-Chandeleur Islands/Curlew Island/16June21Camera1-Card1-7856.jpg",
+    "top_species": [
+      "SATE",
+      "ROYT",
+      "BLSK"
+    ],
+    "history": [
+      {
+        "year": 2015,
+        "birds": 10547,
+        "nests": 9947,
+        "species_count": 6
+      },
+      {
+        "year": 2018,
+        "birds": 494,
+        "nests": 272,
+        "species_count": 4
+      },
+      {
+        "year": 2021,
+        "birds": 13685,
+        "nests": 12399,
+        "species_count": 6
+      }
+    ]
+  },
+  {
+    "name": "Philo Brice Islands",
+    "lat": 29.18416,
+    "lng": -90.34678,
+    "sample_image": "avian_monitoring/high_resolution_photos/2021/Terrebonne Bay/Philo Brice Islands/18June21Camera1-Card2-4047.jpg",
+    "top_species": [
+      "BRPE",
+      "LAGU",
+      "TRHE"
+    ],
+    "history": [
+      {
+        "year": 2018,
+        "birds": 15169,
+        "nests": 10569,
+        "species_count": 16
+      },
+      {
+        "year": 2021,
+        "birds": 10621,
+        "nests": 8624,
+        "species_count": 13
+      }
+    ]
+  },
+  {
+    "name": "Bayou Platte Island North",
+    "lat": 29.619877,
+    "lng": -91.895594,
+    "sample_image": "avian_monitoring/high_resolution_photos/2021/Vermilion Bay/Bayou Platte Island North/18June21Camera1-Card2-6365.jpg",
+    "top_species": [
+      "BLSK",
+      "GBTE",
+      "LAGU"
+    ],
+    "history": [
+      {
+        "year": 2015,
+        "birds": 672,
+        "nests": 501,
+        "species_count": 5
+      },
+      {
+        "year": 2018,
+        "birds": 388,
+        "nests": 232,
+        "species_count": 3
+      },
+      {
+        "year": 2021,
+        "birds": 105,
+        "nests": 58,
+        "species_count": 3
+      }
+    ]
+  },
+  {
+    "name": "Southwest Pass Islands 1",
+    "lat": 29.594507,
+    "lng": -92.038113,
+    "sample_image": "avian_monitoring/high_resolution_photos/2021/Vermilion Bay/Southwest Pass Islands 1/20May21Camera1-Card1-9005.jpg",
+    "top_species": [
+      "GREG"
+    ],
+    "history": [
+      {
+        "year": 2018,
+        "birds": 330,
+        "nests": 259,
+        "species_count": 1
+      },
+      {
+        "year": 2021,
+        "birds": 26,
+        "nests": 23,
+        "species_count": 1
+      }
+    ]
+  },
+  {
+    "name": "Point au Fer",
+    "lat": 29.327788,
+    "lng": -91.350965,
+    "sample_image": "avian_monitoring/high_resolution_photos/2021/Atchafalaya Bay/Point au Fer/18June21Camera1-Card2-5819.jpg",
+    "top_species": [
+      "BLSK",
+      "GBTE",
+      "LAGU"
+    ],
+    "history": [
+      {
+        "year": 2021,
+        "birds": 560,
+        "nests": 245,
+        "species_count": 6
+      }
+    ]
+  },
+  {
+    "name": "Belle Pass Pond",
+    "lat": 29.111568,
+    "lng": -90.211673,
+    "sample_image": "avian_monitoring/high_resolution_photos/2021/Terrebonne Bay/Belle Pass Pond/19June21Camera1-Card2-9494.jpg",
+    "top_species": [
+      "GREG",
+      "SNEG",
+      "ROSP"
+    ],
+    "history": [
+      {
+        "year": 2021,
+        "birds": 162,
+        "nests": 130,
+        "species_count": 7
+      }
+    ]
+  },
+  {
+    "name": "Bird Island East",
+    "lat": 29.353105,
+    "lng": -91.382509,
+    "sample_image": "avian_monitoring/high_resolution_photos/2021/Atchafalaya Bay/Bird Island East/20May21Camera2-Card1-8968.jpg",
+    "top_species": [
+      "WHIB",
+      "TRHE",
+      "BCNH"
+    ],
+    "history": [
+      {
+        "year": 2021,
+        "birds": 11301,
+        "nests": 10179,
+        "species_count": 9
+      }
+    ]
+  },
+  {
+    "name": "Biloxi South 21",
+    "lat": 29.678218,
+    "lng": -89.45653299999998,
+    "sample_image": "avian_monitoring/high_resolution_photos/2021/Biloxi South/Biloxi South 21/17June21Camera1-Card2-1486.jpg",
+    "top_species": [
+      "SNEG",
+      "BCNH",
+      "TRHE"
+    ],
+    "history": [
+      {
+        "year": 2021,
+        "birds": 110,
+        "nests": 90,
+        "species_count": 4
+      }
+    ]
+  },
+  {
+    "name": "Mendicant Island",
+    "lat": 29.302176,
+    "lng": -89.973608,
+    "sample_image": "avian_monitoring/high_resolution_photos/2021/Barataria Bay/Mendicant Island/22May21Camera2-Card2-1645.jpg",
+    "top_species": [
+      "BRPE",
+      "GREG",
+      "WHIB"
+    ],
+    "history": [
+      {
+        "year": 2021,
+        "birds": 338,
+        "nests": 377,
+        "species_count": 3
+      }
+    ]
+  },
+  {
+    "name": "Birdsfoot West 6 A",
+    "lat": 29.21976,
+    "lng": -89.382209,
+    "sample_image": "avian_monitoring/high_resolution_photos/2021/Birdsfoot West/Birdsfoot West 6 A/22May21Camera2-Card2-2053.jpg",
+    "top_species": [
+      "NECO",
+      "MAFR",
+      "GREG"
+    ],
+    "history": [
+      {
+        "year": 2015,
+        "birds": 296,
+        "nests": 89,
+        "species_count": 5
+      },
+      {
+        "year": 2021,
+        "birds": 255,
+        "nests": 204,
+        "species_count": 3
+      }
+    ]
+  },
+  {
+    "name": "Scofield Island",
+    "lat": 29.241339,
+    "lng": -89.545691,
+    "sample_image": "avian_monitoring/high_resolution_photos/2021/Birdsfoot West/Scofield Island/17June21Camera2-Card2-4383.jpg",
+    "top_species": [
+      "BLSK",
+      "SATE",
+      "LAGU"
+    ],
+    "history": [
+      {
+        "year": 2015,
+        "birds": 216,
+        "nests": 0,
+        "species_count": 7
+      },
+      {
+        "year": 2021,
+        "birds": 8,
+        "nests": 5,
+        "species_count": 1
+      }
+    ]
+  },
+  {
+    "name": "Gosier Islands North",
+    "lat": 29.5517,
+    "lng": -89.06444,
+    "sample_image": "avian_monitoring/high_resolution_photos/2015/Breton-Chandeleur Islands/Gosier Islands North/21June15Camera1-Card3-00987.jpg",
+    "top_species": [
+      "SATE",
+      "ROYT",
+      "LAGU"
+    ],
+    "history": [
+      {
+        "year": 2015,
+        "birds": 2527,
+        "nests": 2381,
+        "species_count": 6
+      },
+      {
+        "year": 2018,
+        "birds": 18099,
+        "nests": 17358,
+        "species_count": 8
+      }
+    ]
+  },
+  {
+    "name": "Birdsfoot East 4",
+    "lat": 28.979007,
+    "lng": -89.36321599999998,
+    "sample_image": "avian_monitoring/high_resolution_photos/2015/Birdsfoot East/Birdsfoot East 4/20June15Camera1-Card1-01540.jpg",
+    "top_species": [
+      "WHIB",
+      "GREG",
+      "SNEG"
+    ],
+    "history": [
+      {
+        "year": 2015,
+        "birds": 244,
+        "nests": 179,
+        "species_count": 5
+      },
+      {
+        "year": 2018,
+        "birds": 127,
+        "nests": 100,
+        "species_count": 4
+      }
+    ]
+  },
+  {
+    "name": "Bay Chaland Island",
+    "lat": 29.226439,
+    "lng": -90.632649,
+    "sample_image": "avian_monitoring/high_resolution_photos/2015/Terrebonne Bay/Bay Chaland Island/20June15Camera1-Card1-00846.jpg",
+    "top_species": [
+      "FOTE",
+      "BLSK"
+    ],
+    "history": [
+      {
+        "year": 2015,
+        "birds": 364,
+        "nests": 139,
+        "species_count": 2
+      }
+    ]
+  },
+  {
+    "name": "Shell Island East",
+    "lat": 29.281019,
+    "lng": -89.628352,
+    "sample_image": "avian_monitoring/high_resolution_photos/2015/Barataria Bay/Shell Island East/16May15Camera1-Card2-170.jpg",
+    "top_species": [
+      "BLSK",
+      "GBTE",
+      "LAGU"
+    ],
+    "history": [
+      {
+        "year": 2015,
+        "birds": 509,
+        "nests": 8,
+        "species_count": 4
+      }
+    ]
+  },
+  {
+    "name": "Chandeleur South E",
+    "lat": 29.765024,
+    "lng": -88.88708599999998,
+    "sample_image": "avian_monitoring/high_resolution_photos/2015/Breton-Chandeleur Islands/Chandeleur South E/21June15Camera1-Card3-01250.jpg",
+    "top_species": [
+      "SATE",
+      "ROYT",
+      "CATE"
+    ],
+    "history": [
+      {
+        "year": 2015,
+        "birds": 5327,
+        "nests": 5222,
+        "species_count": 5
+      },
+      {
+        "year": 2018,
+        "birds": 26,
+        "nests": 19,
+        "species_count": 1
+      }
+    ]
+  },
+  {
+    "name": "Chandeleur South F",
+    "lat": 29.76426,
+    "lng": -88.88747999999998,
+    "sample_image": "avian_monitoring/high_resolution_photos/2015/Breton-Chandeleur Islands/Chandeleur South F/21June15Camera1-Card3-01235.jpg",
+    "top_species": [
+      "BLSK",
+      "GBTE"
+    ],
+    "history": [
+      {
+        "year": 2015,
+        "birds": 91,
+        "nests": 77,
+        "species_count": 2
+      }
+    ]
+  },
+  {
+    "name": "Hell Pass Coast E",
+    "lat": 29.92132,
+    "lng": -89.31655,
+    "sample_image": "avian_monitoring/high_resolution_photos/2015/Biloxi North/Hell Pass Coast E/21June15Camera2-Card2-00926.jpg",
+    "top_species": [
+      "LAGU",
+      "TRHE"
+    ],
+    "history": [
+      {
+        "year": 2015,
+        "birds": 18,
+        "nests": 9,
+        "species_count": 2
+      },
+      {
+        "year": 2018,
+        "birds": 37,
+        "nests": 22,
+        "species_count": 1
+      }
+    ]
+  },
+  {
+    "name": "Birdsfoot West 6 B",
+    "lat": 29.218071,
+    "lng": -89.372248,
+    "sample_image": "avian_monitoring/high_resolution_photos/2015/Birdsfoot West/Birdsfoot West 6 B/20June15Camera1-Card1-01512.jpg",
+    "top_species": [
+      "NECO",
+      "UNCO"
+    ],
+    "history": [
+      {
+        "year": 2015,
+        "birds": 94,
+        "nests": 62,
+        "species_count": 2
+      }
+    ]
+  },
+  {
+    "name": "East Bay Spoil Island",
+    "lat": 29.061022,
+    "lng": -89.244134,
+    "sample_image": "avian_monitoring/high_resolution_photos/2018/Birdsfoot East/East Bay Spoil Island/24June18Camera1-Card1-10527.jpg",
+    "top_species": [
+      "FOTE",
+      "BLSK",
+      "LAGU"
+    ],
+    "history": [
+      {
+        "year": 2018,
+        "birds": 381,
+        "nests": 316,
+        "species_count": 4
+      }
+    ]
+  },
+  {
+    "name": "Whiskey Island",
+    "lat": 29.05262,
+    "lng": -90.85284,
+    "sample_image": "avian_monitoring/high_resolution_photos/2018/Terrebonne Bay/Whiskey Island/21May18Camera2-Card1-7685.jpg",
+    "top_species": [
+      "BLSK",
+      "GBTE"
+    ],
+    "history": [
+      {
+        "year": 2018,
+        "birds": 996,
+        "nests": 880,
+        "species_count": 2
+      }
+    ]
+  },
+  {
+    "name": "East Island",
+    "lat": 29.07041,
+    "lng": -90.65692,
+    "sample_image": "avian_monitoring/high_resolution_photos/2018/Terrebonne Bay/East Island/21May18Camera1-Card1-6048.jpg",
+    "top_species": [
+      "BLSK",
+      "SATE",
+      "BRPE"
+    ],
+    "history": [
+      {
+        "year": 2018,
+        "birds": 497,
+        "nests": 202,
+        "species_count": 6
+      }
+    ]
+  },
+  {
+    "name": "Bird Island West",
+    "lat": 29.368626,
+    "lng": -91.40305,
+    "sample_image": "avian_monitoring/high_resolution_photos/2018/Atchafalaya Bay/Bird Island West/25June18Camera1-Card1-11719.jpg",
+    "top_species": [
+      "WHIB",
+      "SNEG",
+      "TRHE"
+    ],
+    "history": [
+      {
+        "year": 2018,
+        "birds": 10125,
+        "nests": 8411,
+        "species_count": 5
+      }
+    ]
+  }
+]
