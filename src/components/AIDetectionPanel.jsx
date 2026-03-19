@@ -124,6 +124,7 @@ const generateSmartDetection = (colony, analysis, geoCenter, mpp) => {
 const AIDetectionPanel = ({
   coloniesData,
   selectedColony,
+  onColonySelect,
   uploadedImage,
   setUploadedImage,
   detectionResults,
@@ -488,7 +489,7 @@ const AIDetectionPanel = ({
             <select
               onChange={e => {
                 const c = coloniesData.find(c => c.name === e.target.value);
-                if (c && window.handleColonySelect) window.handleColonySelect(c);
+                if (c && onColonySelect) onColonySelect(c);
               }}
               className="w-full bg-gray-800 text-white border border-gray-700 rounded-lg px-3 py-1.5 text-sm focus:border-primary outline-none"
             >

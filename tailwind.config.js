@@ -25,7 +25,24 @@ export default {
       },
       backdropBlur: {
         xs: '2px',
-      }
+      },
+      backgroundOpacity: {
+        '3': '0.03',
+        '8': '0.08',
+        '12': '0.12',
+        '15': '0.15',
+      },
+      animation: {
+        'gradient-shift': 'gradientShift 20s ease infinite',
+        'float': 'float 8s ease-in-out infinite',
+        'float-delayed': 'floatDelayed 10s ease-in-out infinite',
+        'pulse-slow': 'pulseSlow 6s ease-in-out infinite',
+        'bird-fly': 'birdFly 18s linear infinite',
+        'bird-fly-2': 'birdFly2 24s linear infinite',
+        'bird-fly-3': 'birdFly3 30s linear infinite',
+        'particle': 'particle linear infinite',
+        'scroll-dot': 'scrollDot 2s ease-in-out infinite',
+      },
     },
   },
   plugins: [],
