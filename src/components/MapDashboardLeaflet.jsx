@@ -31,16 +31,28 @@ const MapDashboardLeaflet = ({ coloniesData, selectedYear, onColonySelect, selec
   const [communityObs, setCommunityObs]   = useState([]);
   const { user, profile, refreshProfile } = useAuth();
 
-  // Load community observations
+  // Load verified community observations + their usernames
   useEffect(() => {
     if (!showCommunity) return;
-    supabase
-      .from('observations')
-      .select('id, species, count, colony_name, lat, lng, created_at, profiles(username)')
-      .not('lat', 'is', null)
-      .order('created_at', { ascending: false })
-      .limit(200)
-      .then(({ data }) => setCommunityObs(data || []));
+    // Fetch verified obs and profiles separately to avoid FK join requirement
+    Promise.all([
+      supabase
+        .from('observations')
+        .select('id, species, count, colony_name, lat, lng, created_at, user_id, behavior, notes')
+        .eq('verified', true)
+        .not('lat', 'is', null)
+        .order('created_at', { ascending: false })
+        .limit(200),
+      supabase
+        .from('profiles')
+        .select('id, username'),
+    ]).then(([{ data: obs }, { data: prof }]) => {
+      const usernameMap = {};
+      (prof || []).forEach(p => { usernameMap[p.id] = p.username; });
+      setCommunityObs(
+        (obs || []).map(o => ({ ...o, username: usernameMap[o.user_id] || 'citizen' }))
+      );
+    });
   }, [showCommunity]);
 
   async function handleAdoptColony(colonyName) {
@@ -344,7 +356,7 @@ const MapDashboardLeaflet = ({ coloniesData, selectedYear, onColonySelect, selec
                   <div className="space-y-1 text-gray-200 text-xs">
                     <div className="flex justify-between">
                       <span className="text-gray-400">Count:</span>
-                      <span className="font-semibold text-white">{obs.count}</span>
+                      <span className="font-semibold text-white">{obs.count} bird{obs.count !== 1 ? 's' : ''}</span>
                     </div>
                     {obs.colony_name && (
                       <div className="flex justify-between">
@@ -352,17 +364,26 @@ const MapDashboardLeaflet = ({ coloniesData, selectedYear, onColonySelect, selec
                         <span className="font-semibold text-white">{obs.colony_name}</span>
                       </div>
                     )}
+                    {obs.behavior && (
+                      <div className="flex justify-between">
+                        <span className="text-gray-400">Behavior:</span>
+                        <span className="font-semibold text-white">{obs.behavior}</span>
+                      </div>
+                    )}
                     <div className="flex justify-between">
                       <span className="text-gray-400">By:</span>
-                      <span className="font-semibold text-sky-400">@{obs.profiles?.username || 'citizen'}</span>
+                      <span className="font-semibold text-sky-400">@{obs.username}</span>
                     </div>
                     <div className="flex justify-between">
                       <span className="text-gray-400">Date:</span>
                       <span className="text-white">{new Date(obs.created_at).toLocaleDateString()}</span>
                     </div>
+                    {obs.notes && (
+                      <p className="text-gray-500 italic pt-1 border-t border-gray-700">"{obs.notes}"</p>
+                    )}
                   </div>
                   <div className="mt-2 pt-2 border-t border-gray-700 text-center">
-                    <span className="text-[10px] text-sky-400 font-semibold">👤 Citizen Science</span>
+                    <span className="text-[10px] text-emerald-400 font-semibold">✅ Verified Citizen Sighting</span>
                   </div>
                 </div>
               </Popup>
