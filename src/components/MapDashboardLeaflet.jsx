@@ -1,27 +1,72 @@
 import React, { useEffect, useState, useMemo, useCallback } from 'react';
 import { MapContainer, TileLayer, CircleMarker, Popup, useMap, Circle } from 'react-leaflet';
-import { MapPin, Layers, ZoomIn, ZoomOut } from 'lucide-react';
+import { MapPin, Layers, ZoomIn, ZoomOut, Users } from 'lucide-react';
 import { getSpeciesName } from '../utils/speciesMapping';
 import { calculateHQI, calculateRecoveryTrend } from '../utils/hqiCalculator';
 import StormTrackLayer from './StormTrackLayer';
 import { COASTAL_ZONES, colonyHabitatScore, riskColor } from '../utils/habitatLoss';
+import { useAuth } from '../context/AuthContext';
+import { supabase } from '../utils/supabaseClient';
+import { checkBadges, XP, getLevelInfo } from '../context/GameContext';
 import 'leaflet/dist/leaflet.css';
 
 // Component to handle map controls
 function MapController({ onZoomIn, onZoomOut, onReset }) {
   const map = useMap();
-  
+
   useEffect(() => {
     onZoomIn.current = () => map.zoomIn();
     onZoomOut.current = () => map.zoomOut();
     onReset.current = () => map.setView([29.9511, -90.0715], 7);
+    // Fix black screen on hard refresh — Leaflet needs to recalculate container size
+    setTimeout(() => map.invalidateSize(), 150);
   }, [map, onZoomIn, onZoomOut, onReset]);
-  
+
   return null;
 }
 
 const MapDashboardLeaflet = ({ coloniesData, selectedYear, onColonySelect, selectedStorm, showStormImpact, detectionGeoPoints = [], showHabitatLayer = false }) => {
-  const [mapStats, setMapStats] = useState({ total: 0, visible: 0 });
+  const [mapStats, setMapStats]           = useState({ total: 0, visible: 0 });
+  const [showCommunity, setShowCommunity] = useState(false);
+  const [communityObs, setCommunityObs]   = useState([]);
+  const { user, profile, refreshProfile } = useAuth();
+
+  // Load community observations
+  useEffect(() => {
+    if (!showCommunity) return;
+    supabase
+      .from('observations')
+      .select('id, species, count, colony_name, lat, lng, created_at, profiles(username)')
+      .not('lat', 'is', null)
+      .order('created_at', { ascending: false })
+      .limit(200)
+      .then(({ data }) => setCommunityObs(data || []));
+  }, [showCommunity]);
+
+  async function handleAdoptColony(colonyName) {
+    if (!user || !profile) return;
+    const current = profile?.adopted_colonies || [];
+    if (current.includes(colonyName)) return;
+    const adopted = [...current, colonyName];
+    const newXp    = (profile?.xp || 0) + XP.ADOPT_COLONY;
+    const newLevel = getLevelInfo(newXp).level;
+
+    const { data: updated, error } = await supabase
+      .from('profiles')
+      .update({ adopted_colonies: adopted, xp: newXp, level: newLevel })
+      .eq('id', user.id)
+      .select();
+
+    if (error || !updated?.length) {
+      await supabase
+        .from('profiles')
+        .upsert({ id: user.id, adopted_colonies: adopted, xp: newXp, level: newLevel }, { onConflict: 'id' });
+    }
+
+    const updatedProfile = { ...profile, adopted_colonies: adopted, xp: newXp };
+    const badges = await checkBadges(user.id, updatedProfile, refreshProfile);
+    if (badges.length === 0) await refreshProfile();
+  }
 
   // Pre-compute habitat scores per colony (only when habitat layer is active)
   const habitatScores = useMemo(() => {
@@ -242,11 +287,88 @@ const MapDashboardLeaflet = ({ coloniesData, selectedYear, onColonySelect, selec
                     </div>
                   </div>
                 </div>
+
+                {/* Adopt-a-Colony button */}
+                {user && (() => {
+                  const adopted = profile?.adopted_colonies || [];
+                  const isAdopted = adopted.includes(colony.name);
+                  return (
+                    <button
+                      onClick={() => handleAdoptColony(colony.name)}
+                      disabled={isAdopted}
+                      style={{
+                        marginTop: '10px',
+                        width: '100%',
+                        padding: '8px',
+                        borderRadius: '8px',
+                        border: isAdopted ? '1px solid rgba(16,185,129,0.3)' : '1px solid rgba(16,185,129,0.4)',
+                        background: isAdopted ? 'rgba(16,185,129,0.08)' : 'rgba(16,185,129,0.15)',
+                        color: isAdopted ? '#6ee7b7' : '#10b981',
+                        fontSize: '12px',
+                        fontWeight: '600',
+                        cursor: isAdopted ? 'default' : 'pointer',
+                        transition: 'all 0.2s',
+                      }}
+                    >
+                      {isAdopted ? '🏡 Colony Adopted!' : '🏡 Adopt this Colony (+15 XP)'}
+                    </button>
+                  );
+                })()}
               </div>
             </Popup>
           </CircleMarker>
           );
         })}
+
+        {/* Community citizen sightings layer */}
+        {showCommunity && communityObs.map((obs, i) => (
+          obs.lat && obs.lng ? (
+            <CircleMarker
+              key={`comm-${obs.id || i}`}
+              center={[obs.lat, obs.lng]}
+              radius={7}
+              pathOptions={{
+                fillColor: '#0ea5e9',
+                fillOpacity: 0.85,
+                color: '#ffffff',
+                weight: 2,
+                opacity: 1,
+              }}
+            >
+              <Popup maxWidth={240} minWidth={190} className="colony-popup">
+                <div className="text-sm">
+                  <div className="flex items-center gap-2 mb-2 pb-2 border-b border-gray-600">
+                    <div className="w-2.5 h-2.5 rounded-full bg-sky-400 flex-shrink-0" />
+                    <span className="font-bold text-white">{obs.species}</span>
+                  </div>
+                  <div className="space-y-1 text-gray-200 text-xs">
+                    <div className="flex justify-between">
+                      <span className="text-gray-400">Count:</span>
+                      <span className="font-semibold text-white">{obs.count}</span>
+                    </div>
+                    {obs.colony_name && (
+                      <div className="flex justify-between">
+                        <span className="text-gray-400">Colony:</span>
+                        <span className="font-semibold text-white">{obs.colony_name}</span>
+                      </div>
+                    )}
+                    <div className="flex justify-between">
+                      <span className="text-gray-400">By:</span>
+                      <span className="font-semibold text-sky-400">@{obs.profiles?.username || 'citizen'}</span>
+                    </div>
+                    <div className="flex justify-between">
+                      <span className="text-gray-400">Date:</span>
+                      <span className="text-white">{new Date(obs.created_at).toLocaleDateString()}</span>
+                    </div>
+                  </div>
+                  <div className="mt-2 pt-2 border-t border-gray-700 text-center">
+                    <span className="text-[10px] text-sky-400 font-semibold">👤 Citizen Science</span>
+                  </div>
+                </div>
+              </Popup>
+            </CircleMarker>
+          ) : null
+        ))}
 
         {/* AI Detection geo-pins */}
         {detectionGeoPoints.map((pin, i) => (
@@ -316,26 +438,21 @@ const MapDashboardLeaflet = ({ coloniesData, selectedYear, onColonySelect, selec
 
       {/* Map Controls */}
       <div className="absolute top-4 right-4 flex flex-col gap-2 z-[1000]">
-        <button
-          onClick={() => zoomInRef.current?.()}
-          className="glass-button p-3 rounded-lg hover:scale-105 transition-transform"
-          title="Zoom In"
-        >
+        <button onClick={() => zoomInRef.current?.()} className="glass-button p-3 rounded-lg hover:scale-105 transition-transform" title="Zoom In">
           <ZoomIn className="w-5 h-5 text-white" />
         </button>
-        <button
-          onClick={() => zoomOutRef.current?.()}
-          className="glass-button p-3 rounded-lg hover:scale-105 transition-transform"
-          title="Zoom Out"
-        >
+        <button onClick={() => zoomOutRef.current?.()} className="glass-button p-3 rounded-lg hover:scale-105 transition-transform" title="Zoom Out">
           <ZoomOut className="w-5 h-5 text-white" />
         </button>
-        <button
-          onClick={() => resetRef.current?.()}
-          className="glass-button p-3 rounded-lg hover:scale-105 transition-transform"
-          title="Reset View"
-        >
+        <button onClick={() => resetRef.current?.()} className="glass-button p-3 rounded-lg hover:scale-105 transition-transform" title="Reset View">
           <Layers className="w-5 h-5 text-white" />
+        </button>
+        <button
+          onClick={() => setShowCommunity(v => !v)}
+          className={`p-3 rounded-lg hover:scale-105 transition-all ${showCommunity ? 'bg-sky-500/30 border border-sky-500/50' : 'glass-button'}`}
+          title="Toggle Citizen Sightings"
+        >
+          <Users className={`w-5 h-5 ${showCommunity ? 'text-sky-400' : 'text-white'}`} />
         </button>
       </div>
 
@@ -379,6 +496,14 @@ const MapDashboardLeaflet = ({ coloniesData, selectedYear, onColonySelect, selec
             <div className="mt-2 pt-2 border-t border-gray-700">
               <p className="text-[10px] text-gray-400">Size = bird population</p>
             </div>
+            {showCommunity && (
+              <div className="mt-2 pt-2 border-t border-gray-700">
+                <div className="flex items-center gap-2">
+                  <div className="w-2.5 h-2.5 rounded-full bg-sky-400 flex-shrink-0" />
+                  <span className="text-gray-300 text-[10px]">Citizen sightings</span>
+                </div>
+              </div>
+            )}
           </>
         )}
       </div>
