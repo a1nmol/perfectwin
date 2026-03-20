@@ -488,8 +488,8 @@ const MapDashboardLeaflet = ({ coloniesData, selectedYear, onColonySelect, selec
         </div>
       </div>
 
-      {/* Legend */}
-      <div className="absolute bottom-4 right-4 glass-panel p-3 rounded-lg max-w-[180px] z-[1000]">
+      {/* Legend — hidden when citizen sightings layer is active */}
+      {!showCommunity && <div className="absolute bottom-4 right-4 glass-panel p-3 rounded-lg max-w-[180px] z-[1000]">
         {showHabitatLayer ? (
           <>
             <h3 className="text-xs font-bold text-amber-400 mb-2">Habitat Loss Risk</h3>
@@ -527,7 +527,7 @@ const MapDashboardLeaflet = ({ coloniesData, selectedYear, onColonySelect, selec
             )}
           </>
         )}
-      </div>
+      </div>}
     </div>
   );
 };
