@@ -211,8 +211,8 @@ const MapDashboardLeaflet = ({ coloniesData, selectedYear, onColonySelect, selec
           </Circle>
         ))}
 
-        {/* Colony markers - optimized for performance */}
-        {processedColonies.map((colony) => {
+        {/* Colony markers — hidden when citizen sightings layer is active */}
+        {!showCommunity && processedColonies.map((colony) => {
           const hscore = habitatScores[colony.name];
           const markerColor = showHabitatLayer && hscore
             ? riskColor(hscore.vulnerabilityScore)
